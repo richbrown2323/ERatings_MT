@@ -1,0 +1,858 @@
+A_id,A_statement,Best_B_id,Best_B_statement,cosine_similarity
+A1,Lakeside Elementary School 315 School Addition Road Somers,B363,Lakeside Elementary School 255 Adams Street Lakeside,0.8777001
+A2,Somers Middle School 315 School Addition Road Somers,B604,Somers Middle School (5-8) 315 School Addition Road Somers,0.9524474
+A3,Glacier Elementary School 101 3rd Avenue SE Cut Bank,B676,West Glacier Elementary School 160 Old Bridge Rd West Glacier,0.8947329
+A4,Anna Jeffries Elementary 101 3rd Avenue SE Cut Bank,B149,Cut Bank Middle School 101 4th Ave Se Cut Bank,0.81696934
+A5,Cut Bank Middle School 101 3rd Avenue SE Cut Bank,B149,Cut Bank Middle School 101 4th Ave Se Cut Bank,0.99545366
+A6,Hidden Lake Elementary 101 3rd Avenue SE Cut Bank,B312,Hidden Lake Elementary 100 Welch Rd Cut Bank,0.9627527
+A7,Zenith Elementary 101 3rd Avenue SE Cut Bank,B722,Zenith Colony School 141 Zenith Colony Rd Cut Bank,0.81936014
+A8,H C Davis Elementary 101 3rd Avenue SE Cut Bank,B312,Hidden Lake Elementary 100 Welch Rd Cut Bank,0.81838703
+A9,Horizon Elementary 101 3rd Avenue SE Cut Bank,B331,Horizon Elementary School 100 Horizon Road Cut Bank,0.9549341
+A10,Mountain View Elementary PO Box 1169 Cut Bank,B454,Mountain View Elementary Sch Po Box 1090 Red Lodge,0.89400244
+A11,Kessler Elementary School 1325 Poplar Street Helena,B361,Kessler Elementary School 2420 Choteau St Helena,0.93238676
+A12,Broadwater School 1325 Poplar Street Helena,B79,Broadwater School 900 Hollins Ave Helena,0.9708282
+A13,Bryant School 1325 Poplar Street Helena,B84,Bryant School 1529 Boulder Ave Helena,0.96896774
+A14,Central School 1325 Poplar Street Helena,B107,Central Elementary School 402 N Warren St Helena,0.9202782
+A15,Four Georgians School 1325 Poplar Street Helena,B300,Helena Flats 7-8 School 1000 Helena Flats Rd Kalispell,0.8078072
+A16,Hawthorne School 1325 Poplar Street Helena,B293,Hawthorne School 430 Madison Ave Helena,0.9588251
+A17,Jefferson School 1325 Poplar Street Helena,B346,Jefferson Elementary School 1023 E Broadway St Helena,0.9486538
+A18,Rossiter School 1325 Poplar Street Helena,B548,Rossiter Elementary School 1497 Sierra Rd E Helena,0.9231676
+A19,Smith School 1325 Poplar Street Helena,B601,Smith Elementary School 2320 5th Ave Helena,0.95714664
+A20,Jim Darcy School 1325 Poplar Street Helena,B348,Jim Darcy Elementary School 900 Lincoln St Helena,0.92053336
+A21,Warren School 1325 Poplar Street Helena,B668,Warren Elementary School 2690 York Rd Helena,0.95261437
+A22,Helena Middle School 1325 Poplar Street Helena,B303,Helena Middle School 1025 N Rodney St Helena,0.9654362
+A23,C R Anderson Middle Schl 1325 Poplar Street Helena,B90,C R Anderson Middle School 1200 Knight St Helena,0.87003046
+A24,Helena Montessori Charter Schl 1325 Poplar Street Helena,B304,Helena Montessori Charter Schl 1325 Poplar St Helena,0.8873655
+A25,Mount Ascension Learning Ac EL 1325 Poplar Street Helena,B300,Helena Flats 7-8 School 1000 Helena Flats Rd Kalispell,0.76316124
+A26,Mount Ascension Learning Ac MS 1325 Poplar Street Helena,B300,Helena Flats 7-8 School 1000 Helena Flats Rd Kalispell,0.7603997
+A27,Broadus School Box 500 Broadus,B72,Broadus 7-8 School Po Box 500 Broadus,0.7384834
+A28,Broadus 7-8 Box 500 Broadus,B72,Broadus 7-8 School Po Box 500 Broadus,0.49526596
+A29,South Stacey School 124 Stacey Road Volborg,B170,Dodson High School 127 First Ave W Dodson,0.7776623
+A30,Ashland School Box 17 Ashland,B18,Ashland Elementary School 8 Old Mission Road Ashland,0.7378861
+A31,Ashland 7-8 Box 17 Ashland,B17,Ashland 7-8 School 8 Old Mission Road Ashland,0.64851016
+A32,Noxon School 300 Noxon Ave Noxon,B468,Noxon 7-8 School 300 Noxon Ave. Noxon,0.9378346
+A33,Noxon 7-8 300 Noxon Ave Noxon,B468,Noxon 7-8 School 300 Noxon Ave. Noxon,0.8037642
+A34,Pine Hills Youth Corr Facil El PO Box 201301 Helena,B652,Two Eagle River Schools Po Box 160 Pablo,0.6900624
+A35,Pine Hills Youth Corr Facil HS PO Box 201301 Helena,B454,Mountain View Elementary Sch Po Box 1090 Red Lodge,0.74259233
+A36,Liberty Elementary School PO Box 78  333 2100 Rd S Galata,B242,"Galata Elementary School Po Box 76, 10 Division Avenue Galata",0.85517526
+A37,West Glacier School PO Box 309 West Glacier,B676,West Glacier Elementary School 160 Old Bridge Rd West Glacier,0.87826216
+A38,Lame Deer High School Box 96 Lame Deer,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.6427971
+A39,North Star 7-8 Box 129 Rudyard,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.61138093
+A40,North Star School Box 129 Rudyard,B539,Rocky Boy Elementary School Rr 1 Box 620 Box Elder,0.7452264
+A41,North Star High School Box 129 Rudyard,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.7534401
+A42,Chester-Joplin-Inverness Schl Box 550 Chester,B116,"Chester High School Po Box 550, School And Main Chester",0.701076
+A43,Sage Creek Elementary Box 550 Chester,B565,Sage Creek Colony Elem School Po Box 238 Chester,0.88194394
+A44,Chester-Joplin-Inverness 7-8 Box 550 Chester,B116,"Chester High School Po Box 550, School And Main Chester",0.7230723
+A45,Hi-Line Colony School Box 550 Chester,B311,Hi-Line Colony School 1262 Whitlash Rd Chester,0.853287
+A46,Heart Butte Elementary PO Box 259 Heart Butte,B297,Heart Butte Elementary School School Rd Heart Butte,0.81923485
+A47,Heart Butte High School PO Box 259 Heart Butte,B298,Heart Butte High School School Rd Heart Butte,0.8635305
+A48,Heart Butte 6-8 PO Box 259 Heart Butte,B297,Heart Butte Elementary School School Rd Heart Butte,0.6913106
+A49,MT Sch For Deaf & Blnd HS 3911 Central Avenue Great Falls,B457,Mt Sch For Deaf & Blnd Hs 3911 Central Ave Great Falls,0.99775475
+A50,MT Sch For Deaf & Blnd El 3911 Central Avenue Great Falls,B456,Mt Sch For Deaf & Blnd El 3911 Central Ave Great Falls,0.99776345
+A51,Chester-Joplin-Inverness HS Box 550 Chester,B116,"Chester High School Po Box 550, School And Main Chester",0.7639259
+A52,Dutton/Brady Elementary 101 2nd St NE Dutton,B175,"Dutton/Brady Elementary 101 2nd Street, Ne Dutton",0.9582007
+A53,Dutton/Brady High School 101 2nd St NE Dutton,B176,"Dutton/Brady High School 101 2nd Street, Ne Dutton",0.97053194
+A54,Dutton/Brady Middle School 101 2nd St NE Dutton,B176,"Dutton/Brady High School 101 2nd Street, Ne Dutton",0.94903576
+A55,Midway Colony 101 2nd St NE Dutton,B174,Duncan Ranch Colony Elem Sch Po Box 248 Harlowton,0.6545328
+A56,Pondera Colony School 101 2nd St NE Dutton,B177,"Duttonbrady Middle School 101 2nd Street, Ne Dutton",0.8208589
+A57,Ophir 7-8 PO Box 161280 Big Sky,B472,"Opheim 7-8 100 Rock Street, Po Box 108 Opheim",0.73873746
+A58,Ophir Elementary School PO Box 161280 Big Sky,B476,Ophir Elementary School 45465 Gallatin Rd Gallatin Gtwy,0.8158339
+A59,Lone Peak High School PO Box 161280 Big Sky,B405,Lone Peak High School 45465 Gallatin Road Gallatin Gateway,0.79427445
+A60,Radley Elementary School PO Box 1280 East Helena,B518,Radley Elementary School 226 East Clinton Street East Helena,0.9478135
+A61,Eastgate School PO Box 1280 East Helena,B186,Eastgate Elementary School 4010 Gradestake East Helena,0.8853379
+A62,East Valley Middle School PO Box 1280 East Helena,B185,East Valley Middle School 400 North Kalispell East Helena,0.9004573
+A63,Prickly Pear Elem PO Box 1280 East Helena,B305,Helena P.A.L 815 Front St Helena,0.67179185
+A64,East Helena High School PO Box 1280 East Helena,B182,East Helena High School 2760 Valley Drive East Helena,0.92465115
+A65,227 Academy- HS PO Box 1280 East Helena,B302,Helena High School 1300 Billings Ave Helena,0.8076795
+A66,227 Academy- middle school PO Box 1280 East Helena,B303,Helena Middle School 1025 N Rodney St Helena,0.8374861
+A67,Lockwood Intermediate 1932 US Highway 87 E. Lockwood,B399,Lockwood Intermediate School 1932 Us Highway 87 E Billings,0.8913866
+A68,Lockwood Primary 1932 US Highway 87 E. Lockwood,B401,Lockwood Primary School 1932 Us Highway 87 E Billings,0.7365838
+A69,Lockwood Middle School 1932 US Highway 87 E. Lockwood,B400,Lockwood Middle School 1932 Us Highway 87 E Billings,0.9345571
+A70,Lockwood High School 1932 US Highway 87 E. Lockwood,B398,Lockwood High School 1932 Us Hwy 87 E Billings,0.9319833
+A71,Shields Valley Elementary PO Box 40 Clyde Park,B595,Shields Valley High  School 405 1st Street East Clyde Park,0.89435977
+A72,Shields Valley 7-8 PO Box 40 Clyde Park,B584,"Sheilds Valley 7-8 405 1st Street, East Clyde Park",0.81192434
+A73,Shields Valley High Schl PO Box 40 Clyde Park,B595,Shields Valley High  School 405 1st Street East Clyde Park,0.8090509
+A74,Absarokee School 327 S Woodard Ave Absarokee,B2,Absarokee Elementary School Rr 1 Box 2020 Absarokee,0.8394864
+A75,Absarokee 6-8 327 S Woodard Ave Absarokee,B2,Absarokee Elementary School Rr 1 Box 2020 Absarokee,0.7423528
+A76,Absarokee High School 327 S Woodard Ave Absarokee,B2,Absarokee Elementary School Rr 1 Box 2020 Absarokee,0.8235134
+A77,Alberton Elementary PO Box 330 Alberton,B5,Alberton High School 306 Railroad Ave Alberton,0.7471389
+A78,Alberton High School PO Box 330 Alberton,B5,Alberton High School 306 Railroad Ave Alberton,0.9193311
+A79,Alberton Middle School PO Box 330 Alberton,B5,Alberton High School 306 Railroad Ave Alberton,0.90723884
+A80,Alzada School Box 8 Alzada,B3,Absarokee High School Rr 1 Box 2020 Absarokee,0.60714775
+A81,Amsterdam School 6360 Camp Creek Road Manhattan,B422,Manhattan Elementary School 416 N Broadway Manhattan,0.8538488
+A82,Fred Moodry Intermediate 1410 West Park Ave. Anaconda,B233,Fred Moodry Intermediate School 219 E 3rd St Anaconda,0.94336325
+A83,Lincoln Primary 1410 West Park Ave. Anaconda,B389,Lincoln Elementary School 506 Chestnut St Anaconda,0.8100498
+A84,Anaconda Jr High School 1410 West Park Ave. Anaconda,B10,Anaconda Jr High School 219 E Third Street Anaconda,0.97069
+A85,Anaconda Sr High School 1410 West Park Ave. Anaconda,B10,Anaconda Jr High School 219 E Third Street Anaconda,0.9658022
+A86,Anderson School 10040 Cottonwood Road Bozeman,B447,Monforton School (Grades 3-5) 6001 Monforton School Rd Bozeman,0.8027555
+A87,Anderson 7-8 10040 Cottonwood Road Bozeman,B445,Monforton 6-8 School 6001 Monforton School Rd Bozeman,0.6624482
+A88,Arlee Elementary 72220 Fyant Street Arlee,B12,Arlee Elementary School Fyant Street Arlee,0.9487902
+A89,Arlee 7-8 72220 Fyant Street Arlee,B11,"Arlee 7-8 School Po Box 37, 72220 Fyant Street Arlee",0.80979
+A90,Arlee High School 72220 Fyant Street Arlee,B13,Arlee High School Fyant St Arlee,0.9372883
+A91,Arrowhead Elementary PO Box 37 Pray,B16,"Arrowhead School Po Box 37, 1489 East River Rd Pray",0.9006504
+A92,Arrowhead Middle School PO Box 37 Pray,B14,Arrowhead 7-8 School A.K.A. Arrowhead Middle School Po Box 37 Pray,0.9383322
+A93,Augusta Elementary School PO Box 307 Augusta,B21,Augusta High School Po Box 307 Augusta,0.9506871
+A94,Augusta 7-8 PO Box 307 Augusta,B19,Augusta 7-8 School Po Box 307 Augusta,0.80579305
+A95,Augusta High School PO Box 307 Augusta,B21,Augusta High School Po Box 307 Augusta,0.9999998
+A96,Auchard Creek School 9605 Hwy 287 Wolf Creek,B714,Wolf Point High School 213 6th Ave S Wolf Point,0.80253917
+A97,Avon School PO Box 246 Avon,B22,Avon School Po Box 246 Avon,0.99999994
+A98,Ayers School Box 100 Grass Range,B269,Grass Range 7-8 School Po Box 58 Grass Range,0.7825792
+A99,Bainville School Box 177 Bainville,B27,Bainville High School Po Box 177 Bainville,0.85525244
+A100,Bainville High School Box 177 Bainville,B27,Bainville High School Po Box 177 Bainville,0.86758757
+A101,Bainville 7-8 Box 177 Bainville,B25,Bainville 7-8 School Po Box 177 Bainville,0.64969575
+A102,Baker 7-8 Box 659 Baker,B488,Plains 7-8 Po Box 549 Plains,0.6186882
+A103,Lincoln School Box 659 Baker,B393,Lincoln High School Po Box 39 Lincoln,0.7982247
+A104,Longfellow School Box 659 Baker,B409,Longfellow School 115 West Lincoln Street Baker,0.80158174
+A105,Baker High School Box 659 Baker,B29,Baker High School 1015 S 3rd West Baker,0.8060854
+A106,Basin School PO Box 128 Basin,B652,Two Eagle River Schools Po Box 160 Pablo,0.7443359
+A107,Smith Valley Primary Schl 2901 Highway 2 West Kalispell,B679,West Valley School 2290 Farm To Market Rd Kalispell,0.8397654
+A108,Smith Valley 7-8 2901 Highway 2 West Kalispell,B679,West Valley School 2290 Farm To Market Rd Kalispell,0.7759112
+A109,Bear Paw School 29815 Clear Creek Road Chinook,B119,Chinook 6-8 School Po Box 1059 Chinook,0.80840385
+A110,Beaverhead Co High School 104 North Pacific Street Dillon,B33,Beaverhead Co High School 104 N Pacific St Dillon,0.991522
+A111,Belfry School PO Box 210 Belfry,B34,Belfry 7-8 School 200 Wisconsin Street Belfry,0.83298
+A112,Belfry High School PO Box 210 Belfry,B36,Belfry High School 200 Wisconsin Street Belfry,0.8563678
+A113,Belfry 7-8 PO Box 210 Belfry,B591,Sheridan 7-8 Po Box 586 Sheridan,0.6910747
+A114,Belgrade Middle School PO Box 166 Belgrade,B37,Belgrade High School 303 N Hoffman St Belgrade,0.88814944
+A115,Ridge View Elementary PO Box 166 Belgrade,B532,Ridgeview Elementary School 117 Greenbelt Drive Belgrade,0.88842744
+A116,Saddle Peak Elementary PO Box 166 Belgrade,B532,Ridgeview Elementary School 117 Greenbelt Drive Belgrade,0.76898944
+A117,Story Creek Elem PO Box 166 Belgrade,B174,Duncan Ranch Colony Elem Sch Po Box 248 Harlowton,0.66138905
+A118,Belgrade High School PO Box 166 Belgrade,B37,Belgrade High School 303 N Hoffman St Belgrade,0.9027308
+A119,Belt School PO Box 197 Belt,B38,Belt 7-8 School Po Box 197 Belt,0.9400362
+A120,Pleasant Valley School PO Box 197 Belt,B40,"Belt High School Po Box 197, 1 Church St Belt",0.78060794
+A121,Belt 7-8 PO Box 197 Belt,B38,Belt 7-8 School Po Box 197 Belt,0.9357728
+A122,Belt High School PO Box 197 Belt,B38,Belt 7-8 School Po Box 197 Belt,0.9460701
+A123,Benton Lake School 17557 Bootlegger Trail Floweree,B224,Fort Benton Elementary School 1406 Franklin St Fort Benton,0.78440416
+A124,Biddle School Box 397 Biddle,B539,Rocky Boy Elementary School Rr 1 Box 620 Box Elder,0.6487558
+A125,Spring Creek School Box 118 Decker,B67,Box Elder Elementary School Po Box 205 Box Elder,0.72402406
+A126,Big Sandy High School PO Box 570 Big Sandy,B44,"Big Sandy High School Po Box 570, 398 First Ave Big Sandy",0.9635402
+A127,F E Miley School PO Box 570 Big Sandy,B203,F E Miley Elementary School 342 Vernon Ave Big Sandy,0.8594955
+A128,Big Sandy 7-8 PO Box 570 Big Sandy,B43,"Big Sandy 7-8 School Po Box 570, 398 First Ave Big Sandy",0.82827103
+A129,Big Timber School PO Box 887 Big Timber,B49,Big Timber 7-8 School Po Box 887 Big Timber,0.92930263
+A130,Big Timber 7-8 PO Box 887 Big Timber,B49,Big Timber 7-8 School Po Box 887 Big Timber,0.8201235
+A131,Bigfork Elementary PO Box 188 Bigfork,B44,"Big Sandy High School Po Box 570, 398 First Ave Big Sandy",0.60121405
+A132,Bigfork 6-8 PO Box 188 Bigfork,B49,Big Timber 7-8 School Po Box 887 Big Timber,0.6578288
+A133,Bigfork High School PO Box 188 Bigfork,B44,"Big Sandy High School Po Box 570, 398 First Ave Big Sandy",0.78966033
+A134,Arrowhead School 415 North 30th Street Billings,B15,Arrowhead Elementary School 2510 38th St W Billings,0.9316826
+A135,Bench School 415 North 30th Street Billings,B54,Billings Opportunity School 1044 Cook Ave Billings,0.8208869
+A136,Bitterroot School 415 North 30th Street Billings,B58,Bitterroot Elementary School 1801 Bench Blvd Billings,0.90241253
+A137,Boulder School 415 North 30th Street Billings,B64,Boulder Elementary School 2202 32nd St W Billings,0.92945856
+A138,Broadwater School 415 North 30th Street Billings,B77,Broadwater Elementary School 415 Broadwater Ave Billings,0.94659454
+A139,Burlington School 415 North 30th Street Billings,B85,Burlington Elementary School 2135 Lewis Ave Billings,0.9222208
+A140,Central Heights School 415 North 30th Street Billings,B109,Central Heights Elem School 120 Lexington Dr Billings,0.9225614
+A141,Highland School 415 North 30th Street Billings,B313,Highland Elementary School 729 Parkhill Dr Billings,0.9292382
+A142,McKinley School 415 North 30th Street Billings,B428,Mckinley Elementary School 820 N 31st St Billings,0.94377446
+A143,Meadowlark School 415 North 30th Street Billings,B432,Meadowlark Elementary School 221 29th St W Billings,0.952044
+A144,Miles Avenue School 415 North 30th Street Billings,B443,Miles Avenue Elementary School 1601 Miles Ave Billings,0.92381674
+A145,Newman School 415 North 30th Street Billings,B462,Newman Elementary School 605 S Billings Blvd Billings,0.9297833
+A146,Orchard School 415 North 30th Street Billings,B477,Orchard Elementary School 120 Jackson St Billings,0.9078317
+A147,Poly Drive School 415 North 30th Street Billings,B500,Poly Drive Elementary School 2410 Poly Dr Billings,0.8872843
+A148,Ponderosa School 415 North 30th Street Billings,B501,Ponderosa Elementary School 4188 King Ave E Billings,0.9245786
+A149,Rose Park School 415 North 30th Street Billings,B544,Rose Park Elementary School 1812 19th St W Billings,0.9111565
+A150,Sandstone School 415 North 30th Street Billings,B573,Sandstone Elementary School 1440 Nutter Blvd Billings,0.93597144
+A151,Washington School 415 North 30th Street Billings,B670,Washington Elementary School 1044 Cook Ave Billings,0.89601636
+A152,Alkali Creek School 415 North 30th Street Billings,B8,Alkali Creek Elementary School 681 Alkali Creek Rd Billings,0.9417909
+A153,Castle Rock Middle School 415 North 30th Street Billings,B100,Castle Rock 7-8 School 1441 Governors Blvd Billings,0.92884403
+A154,Lewis & Clark Middle School 415 North 30th Street Billings,B377,Lewis & Clark 7-8 School 1315 Lewis Ave Billings,0.93548954
+A155,Big Sky Elementary 415 North 30th Street Billings,B45,Big Sky Elementary School 3231 Granger Ave E Billings,0.9392301
+A156,Eagle Cliffs Elementary 415 North 30th Street Billings,B179,Eagle Cliffs Elementary School 1201 Kootenai Ave Billings,0.943559
+A157,Riverside Middle School 415 North 30th Street Billings,B533,Riverside Middle School 3700 Madison Ave Billings,0.96502054
+A158,Will James Middle School 415 North 30th Street Billings,B703,Will James Middle School 1200 30th St W Billings,0.97984517
+A159,Beartooth School 415 North 30th Street Billings,B32,Beartooth Elementary School 1345 Elaine St Billings,0.86552763
+A160,Medicine Crow Middle School 415 North 30th Street Billings,B435,Medicine Crow Middle School 900 Barrett Rd Billings,0.9668064
+A161,Ben Steele Middle School 415 North 30th Street Billings,B41,Ben Steele Middle School 5640 Grand Ave. Billings,0.9794725
+A162,Billings Multilingual Academy 415 North 30th Street Billings,B53,Billings Multilingual Academy 415 N 30th St Fl 4 Billings,0.93927836
+A163,Billings Sr High School 415 North 30th Street Billings,B55,Billings Senior High School 425 Grand Ave Billings,0.96260524
+A164,Billings West High School 415 North 30th Street Billings,B56,Billings West High School 2201 Saint Johns Ave Billings,0.97066903
+A165,Skyview High School 415 North 30th Street Billings,B600,Skyview High School 1775 High Sierra Blvd Billings,0.9708991
+A166,Billings Multilingual Academy 415 North 30th Street Billings,B53,Billings Multilingual Academy 415 N 30th St Fl 4 Billings,0.93927836
+A167,Billings Early College School 415 North 30th Street Billings,B52,Billings Early College High School 1044 Cook Ave Billings,0.9470372
+A168,Billings Opportunity School 415 North 30th Street Billings,B54,Billings Opportunity School 1044 Cook Ave Billings,0.9626727
+A169,Birney School PO Box 521 Birney,B62,Bonner School Po Box 1004 Bonner,0.7260233
+A170,Cleveland School 22820 Cleveland Road Chinook,B120,Chinook High School 528 Ohio Chinook,0.76653093
+A171,Bloomfield School 207 West Bell Glendive,B328,Hobson 6-8 School 108 6th Street East Hobson,0.76870173
+A172,Blue Creek School 3652 Blue Creek Road Billings,B59,Blue Creek Elementary School 3652 Blue Creek Rd Billings,0.9702091
+A173,Bonner School PO Box 1004 Bonner,B62,Bonner School Po Box 1004 Bonner,1.0
+A174,Bonner 6-8 PO Box 1004 Bonner,B62,Bonner School Po Box 1004 Bonner,0.79724526
+A175,Boulder Elementary School PO Box 1346 Boulder,B65,Boulder Elementary School 205 South Washington Boulder,0.90491706
+A176,Boulder 7-8 PO Box 1346 Boulder,B63,Boulder 7-8 School 205 S Washington St Boulder,0.76940584
+A177,Box Elder School Box 205 Box Elder,B66,Box Elder 7-8 School Po Box 205 Box Elder,0.77760154
+A178,Box Elder 7-8 Box 205 Box Elder,B66,Box Elder 7-8 School Po Box 205 Box Elder,0.5891755
+A179,Box Elder High School Box 205 Box Elder,B68,Box Elder High School 205 Main Street Box Elder,0.8243073
+A180,Emily Dickinson School PO Box 520 Bozeman,B681,West Yellowstone High School Po Box 460 W Yellowstone,0.6411958
+A181,Morning Star School PO Box 520 Bozeman,B447,Monforton School (Grades 3-5) 6001 Monforton School Rd Bozeman,0.73950493
+A182,Hawthorne School PO Box 520 Bozeman,B293,Hawthorne School 430 Madison Ave Helena,0.7647008
+A183,Irving School PO Box 520 Bozeman,B447,Monforton School (Grades 3-5) 6001 Monforton School Rd Bozeman,0.6905359
+A184,Longfellow School PO Box 520 Bozeman,B409,Longfellow School 115 West Lincoln Street Baker,0.7632008
+A185,Whittier School PO Box 520 Bozeman,B447,Monforton School (Grades 3-5) 6001 Monforton School Rd Bozeman,0.73706204
+A186,Chief Joseph Middle School PO Box 520 Bozeman,B118,Chief Joseph Elementary School 5305 3rd Ave S Great Falls,0.75391585
+A187,Sacajawea Middle School PO Box 520 Bozeman,B447,Monforton School (Grades 3-5) 6001 Monforton School Rd Bozeman,0.77159536
+A188,Hyalite Elementary PO Box 520 Bozeman,B259,Glacier Elementary Sch Po Box 2209 Cut Bank,0.6795883
+A189,Meadowlark Elementary PO Box 520 Bozeman,B432,Meadowlark Elementary School 221 29th St W Billings,0.83654153
+A190,Bozeman Online Charter School PO Box 520 Bozeman,B447,Monforton School (Grades 3-5) 6001 Monforton School Rd Bozeman,0.7493614
+A191,Bozeman High School PO Box 520 Bozeman,B447,Monforton School (Grades 3-5) 6001 Monforton School Rd Bozeman,0.76984227
+A192,Gallatin High School PO Box 520 Bozeman,B244,Gallatin Gateway School 100 Mill Street Gallatin Gtwy,0.7950511
+A193,Bridger Charter School PO Box 520 Bozeman,B70,Bridger Elementary School 429 W Park Ave Bridger,0.7501461
+A194,Bridger Elementary School 429 W. Park Ave Bridger,B70,Bridger Elementary School 429 W Park Ave Bridger,0.99675775
+A195,Bridger High School 429 W. Park Ave Bridger,B71,Bridger High School 429 West Park Avenue Bridger,0.992126
+A196,Bridger 7-8 429 W. Park Ave Bridger,B69,Bridger 7-8 School 429 West Park Avenue Bridger,0.8007764
+A197,Powder River Co Dist High Box 500 Broadus,B510,Powder River Co High School 500 N Trautman Broadus,0.6004041
+A198,Broadview School PO Box 147 Broadview,B74,Broadview 7-8 School Po Box 106 Broadview,0.93460554
+A199,Broadview 7-8 PO Box 147 Broadview,B74,Broadview 7-8 School Po Box 106 Broadview,0.7858108
+A200,Broadview High School PO Box 147 Broadview,B74,Broadview 7-8 School Po Box 106 Broadview,0.91592276
+A201,Broadwater High School 201 N Spruce Townsend,B78,Broadwater High School 201 N Spruce St Townsend,0.99077475
+A202,Cecelia Hazelton School 201 N Spruce Townsend,B103,Cecelia Hazelton Elem School 201 N Spruce St Townsend,0.97735333
+A203,Townsend 7-8 201 N Spruce Townsend,B641,Townsend 7-8 School Po Box N Townsend,0.77137816
+A204,Barbara Gilligan School PO Box 198 Brockton,B31,"Barbara Gilligan Elem School Po Box 198, 530 5th St Brockton",0.96148163
+A205,Barbara Gilligan 7-8 PO Box 198 Brockton,B30,Barbara Gilligan 7-8 School Po Box 198 Brockton,0.87350947
+A206,Brockton High School PO Box 198 Brockton,B80,"Brockton High School Po Box 198, 540 5th St Brockton",0.9642476
+A207,Brorson School PO Box 145 Sidney,B597,Sidney High School 1012 4th St Sw Sidney,0.7477674
+A208,Babb School PO Box 610 Browning,B24,Babb Elementary School Po Box 70 Babb,0.8834251
+A209,Stamiksiitsiikin BullShoe Elem PO Box 610 Browning,B82,Browning High School Po Box 610 Browning,0.5941707
+A210,Napi School PO Box 610 Browning,B83,Browning Middle School Po Box 610 Browning,0.74834853
+A211,Big Sky School PO Box 610 Browning,B47,Big Sky School Del Bonita Road; Po Box 147 Browning,0.87340367
+A212,Glendale School PO Box 610 Browning,B265,Glendale Colony Elementary Sch Del Bonita Road; Po Box 850 Cut Bank,0.86373997
+A213,Browning Middle School PO Box 610 Browning,B83,Browning Middle School Po Box 610 Browning,1.0000002
+A214,Browning Elementary PO Box 610 Browning,B82,Browning High School Po Box 610 Browning,0.91467655
+A215,Browning High School PO Box 610 Browning,B82,Browning High School Po Box 610 Browning,1.0000002
+A216,Emerson School 111 North Montana Butte,B196,Emerson Elementary School 1924 Phillips Ave Butte,0.8085516
+A217,Hillcrest School 111 North Montana Butte,B322,Hillcrest Elementary School 3000 Continental Dr Butte,0.9283861
+A218,Kennedy School 111 North Montana Butte,B360,Kennedy Elementary School 1000 N Emmett St Butte,0.85841686
+A219,Margaret Leary School 111 North Montana Butte,B424,Margaret Leary Elem School 1301 Four Mile Vue Rd Butte,0.88848895
+A220,Whittier School 111 North Montana Butte,B698,Whittier Elementary School 305 8th St N Great Falls,0.82313234
+A221,East Middle School 111 North Montana Butte,B184,East Middle School 2600 Grand Ave Butte,0.90507203
+A222,West Elementary School 111 North Montana Butte,B676,West Glacier Elementary School 160 Old Bridge Rd West Glacier,0.8470638
+A223,Butte High School 111 North Montana Butte,B87,Butte Central High School 9 S Idaho St Butte,0.92738473
+A224,Bynum School PO Box 766 Bynum,B62,Bonner School Po Box 1004 Bonner,0.69614124
+A225,Canyon Creek School 3139 Duck Creek Road Billings,B93,Canyon Creek Elementary School 3139 Duck Creek Rd Billings,0.96938497
+A226,Canyon Creek 6-8 3139 Duck Creek Road Billings,B92,Canyon Creek 7-8 School 3139 Duck Creek Rd Billings,0.83648294
+A227,Cardwell School 80 Highway 359 Cardwell,B484,Parkview School 32 Cottom Dr Dillon,0.7579022
+A228,Carter County High School Box 458 Ekalaka,B95,Carter County High School 111 West Speelmon St Ekalaka,0.8420252
+A229,Carter School Box 158 Carter,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.6419914
+A230,Vaughn Elementary PO Box 279 Vaughn,B662,Vaughn 6-8 School 480 Central Ave Vaughn,0.79322493
+A231,Vaughn 6-8 PO Box 279 Vaughn,B488,Plains 7-8 Po Box 549 Plains,0.6863813
+A232,Hillcrest Colony Elementary PO Box 279 Vaughn,B323,"Hillcrest Elementary School Po Box 288, 500 B Avenue Ne Harlowton",0.86666083
+A233,Cascade School PO Box 529 Cascade,B96,Cascade 6-8 School Po Box 307 Cascade,0.92848265
+A234,Cascade 6-8 PO Box 529 Cascade,B96,Cascade 6-8 School Po Box 307 Cascade,0.78842556
+A235,Cascade High School PO Box 529 Cascade,B96,Cascade 6-8 School Po Box 307 Cascade,0.9012634
+A236,Cayuse Prairie School 897 Lake Blaine Road Kalispell,B102,Cayuse Prairie Elem School 897 Lake Blaine Rd Kalispell,0.98212934
+A237,Cayuse Prairie 7-8 897 Lake Blaine Road Kalispell,B101,Cayuse Prairie 7-8 School 897 Lake Blaine Rd Kalispell,0.8671684
+A238,McCormick School 1564 Old Highway 2 North Troy,B667,W F Morrison Elementary School 501 East Kalispell Troy,0.7537882
+A239,St Ignatius Elementary School PO Box 1540 St Ignatius,B570,Saint Ignatius High School 76 3rd Ave Saint Ignatius,0.81330043
+A240,St Ignatius High School PO Box 1540 St Ignatius,B570,Saint Ignatius High School 76 3rd Ave Saint Ignatius,0.8353549
+A241,St Ignatius Middle School PO Box 1540 St Ignatius,B570,Saint Ignatius High School 76 3rd Ave Saint Ignatius,0.8118938
+A242,Charlo Elementary PO Box 10 Charlo,B110,Charlo 6-8 School Po Box 10 Charlo,0.75508714
+A243,Charlo 6-8 PO Box 10 Charlo,B110,Charlo 6-8 School Po Box 10 Charlo,0.8603338
+A244,Charlo High School PO Box 10 Charlo,B112,Charlo High School 405 2nd Ave E Charlo,0.9006331
+A245,Meadowlark School Box 1059 Chinook,B119,Chinook 6-8 School Po Box 1059 Chinook,0.8411514
+A246,Hartland Elementary School Box 1059 Chinook,B119,Chinook 6-8 School Po Box 1059 Chinook,0.8107383
+A247,Chinook 7-8 Box 1059 Chinook,B119,Chinook 6-8 School Po Box 1059 Chinook,0.61139804
+A248,Chinook High School Box 1059 Chinook,B119,Chinook 6-8 School Po Box 1059 Chinook,0.8241189
+A249,Choteau School 204 7th Ave NW Choteau,B123,Choteau High School 204 7th Ave Nw Choteau,0.96619475
+A250,Choteau 7-8 204 7th Ave NW Choteau,B122,Choteau Elementary School 102 Seventh Avenue Nw Choteau,0.79172295
+A251,Choteau High School 204 7th Ave NW Choteau,B123,Choteau High School 204 7th Ave Nw Choteau,1.0000001
+A252,Bo Peep School Box 99 Circle,B60,Bo Peep Elementary School 1105 F Avenue Circle,0.68570954
+A253,Redwater School Box 99 Circle,B525,Redwater Elementary School 100 Meridian Circle Circle,0.79052866
+A254,Redwater 7-8 Box 99 Circle,B524,Redwater 7-8 School Po Box 99 Circle,0.5342605
+A255,Circle High School Box 99 Circle,B525,Redwater Elementary School 100 Meridian Circle Circle,0.6724569
+A256,Clancy School Box 209 Clancy,B125,Clancy 7-8 School A.K.A. Clancy Middle School Po Box 209 Clancy,0.7122008
+A257,Clancy 7-8 Box 209 Clancy,B125,Clancy 7-8 School A.K.A. Clancy Middle School Po Box 209 Clancy,0.6292765
+A258,Clinton School PO Box 250 Clinton,B127,Clinton  7-8 School Po Box 250 Clinton,0.9359618
+A259,Clinton 7-8 PO Box 250 Clinton,B127,Clinton  7-8 School Po Box 250 Clinton,0.7909459
+A260,Cohagen School PO Box 113 Cohagen,B121,Choteau 7-8 School Po Box 857 Choteau,0.73417425
+A261,Pine Butte Elementary Sch PO Box 159 Colstrip,B454,Mountain View Elementary Sch Po Box 1090 Red Lodge,0.8212296
+A262,Frank Brattin Middle Schl PO Box 159 Colstrip,B228,Frank Brattin Middle School 216 Olive Dr Colstrip,0.8082085
+A263,Colstrip High School PO Box 159 Colstrip,B129,Colstrip High School 5001 Pinebutte Dr Colstrip,0.8477762
+A264,Columbia Falls Jr HS PO Box 1259 Columbia Falls,B131,Columbia Falls Junior High 1805 Talbot Road Columbia Falls,0.86269426
+A265,Glacier Gateway Elem PO Box 1259 Columbia Falls,B259,Glacier Elementary Sch Po Box 2209 Cut Bank,0.7566616
+A266,Ruder Elementary PO Box 1259 Columbia Falls,B555,Ruder Elementary School 1500 12th Ave W Columbia Falls,0.8895378
+A267,Columbia Falls High Schl PO Box 1259 Columbia Falls,B131,Columbia Falls Junior High 1805 Talbot Road Columbia Falls,0.82545644
+A268,Columbus Elem School 433 N 3rd St Columbus,B132,Columbus Elementary School 218 E 1st Ave N Columbus,0.93531096
+A269,Columbus Middle School 433 N 3rd St Columbus,B132,Columbus Elementary School 218 E 1st Ave N Columbus,0.9507243
+A270,Columbus High School 433 N 3rd St Columbus,B133,Columbus High School 224 4th Ave N Columbus,0.9673822
+A271,Conrad High School 215 South Maryland St Conrad,B135,Conrad High School 308 S Illinois St Conrad,0.9413937
+A272,Meadowlark School 215 South Maryland St Conrad,B434,Meadowlark K-2 School 17 3rd Ave Sw Conrad,0.86957836
+A273,Utterback 7-8 215 South Maryland St Conrad,B655,Utterback 4-6 School 24 2nd Ave Sw Conrad,0.7782947
+A274,Utterback 4-6 215 South Maryland St Conrad,B655,Utterback 4-6 School 24 2nd Ave Sw Conrad,0.74189717
+A275,Cooke City School PO Box 1070 Cooke City,B451,"Moore Elementary School Po Box 140, 509 Highland Avenue Moore",0.6959486
+A276,Quentin Brown Primary K-4 PO Box 700 Corvallis,B517,Quentin Brown Primary School 1088 Main Street Corvallis,0.70356727
+A277,Corvallis 7-8 PO Box 700 Corvallis,B137,Corvallis 7-8 School 1045 Main Street Corvallis,0.72835857
+A278,Edna Thomas School PO Box 700 Corvallis,B188,Edna Thomas Middle School 1045 Main Street Corvallis,0.876025
+A279,Corvallis High School PO Box 700 Corvallis,B138,Corvallis High School 1045 Main Street Corvallis,0.8889151
+A280,Rise Charter & Distance HS PO Box 700 Corvallis,B137,Corvallis 7-8 School 1045 Main Street Corvallis,0.71197844
+A281,CSD HS Rise Pathway Academy PO Box 700 Corvallis,B137,Corvallis 7-8 School 1045 Main Street Corvallis,0.69263834
+A282,Rise Charter & Distance EL PO Box 700 Corvallis,B137,Corvallis 7-8 School 1045 Main Street Corvallis,0.58871585
+A283,Rise Charter & Distance 7-8 PO Box 700 Corvallis,B137,Corvallis 7-8 School 1045 Main Street Corvallis,0.6259461
+A284,Rise Charter & Pathways EL PO Box 700 Corvallis,B359,"Kalispell Rising Wolf Charter 233 First Ave Kalispell,",0.598245
+A285,Rise Charter & Pathways 7-8 PO Box 700 Corvallis,B137,Corvallis 7-8 School 1045 Main Street Corvallis,0.6069754
+A286,Cottonwood School 13233 Cottonwood Road Bozeman,B447,Monforton School (Grades 3-5) 6001 Monforton School Rd Bozeman,0.7924281
+A287,Creston School 4495 Montana 35 Kalispell,B678,West Valley Middle School 2290 Farm To Market Rd Kalispell,0.7957181
+A288,Culbertson School Box 459 Culbertson,B143,Culbertson High School Po Box 459 Culbertson,0.9091177
+A289,Culbertson Junior High Box 459 Culbertson,B143,Culbertson High School Po Box 459 Culbertson,0.8522668
+A290,Culbertson High School Box 459 Culbertson,B143,Culbertson High School Po Box 459 Culbertson,0.91561574
+A291,Custer Co District High 1604 Main Street Miles City,B145,Custer Co Dist High School 20 S Center Ave Miles City,0.851743
+A292,Kinsey School 7 Mastin Road Kinsey,B492,Plentywood 7-8 School 100 Laurel Ave Plentywood,0.6617112
+A293,S Y School 735 Road 664 Miles City,B390,Lincoln Elementary School 210 S Lake Ave Miles City,0.75152624
+A294,Custer School Box 69 Custer,B147,Custer School Po Box 69 Custer,0.84241134
+A295,Custer High School Box 69 Custer,B147,Custer School Po Box 69 Custer,0.8134747
+A296,Custer 7-8 Box 69 Custer,B144,Custer 7-8 School Po Box 69 Custer,0.6536029
+A297,Cut Bank High School 101 3rd Avenue SE Cut Bank,B148,Cut Bank High School 300 1st St Se Cut Bank,0.9877822
+A298,Darby School 209 School Drive Darby,B152,Darby Elementary School 209 School Dr Darby,0.92171425
+A299,Darby High School 209 School Drive Darby,B153,Darby High School 209 School Dr Darby,0.91781974
+A300,Darby 7-8 209 School Drive Darby,B151,Darby 7-8 School 209 School Dr Darby,0.9236013
+A301,Davey Elementary PO Box 1829 Havre,B154,Davey Elementary School 56182 Clear Creek Rd Havre,0.8483951
+A302,Dawson High School Box 701 Glendive,B155,Dawson County High School 900 N Merrill Ave Glendive,0.80235565
+A303,Lindsay School PO Box 185 Lindsay,B374,Lavina 7-8 School Po Box 146 Lavina,0.6947473
+A304,Deer Creek School 12 Road 564 Glendive,B159,Deer Park School 2105 Middle Rd Columbia Falls,0.8237598
+A305,E F Duvall 7-8 709 Missouri Avenue Deer Lodge,B591,Sheridan 7-8 Po Box 586 Sheridan,0.68068445
+A306,O D Speer School 709 Missouri Avenue Deer Lodge,B471,O D Speer Elementary School 703 5th St Deer Lodge,0.92182475
+A307,Deer Park School 2105 Middle Road Columbia Falls,B159,Deer Park School 2105 Middle Rd Columbia Falls,0.9952246
+A308,Deer Park 6-8 2105 Middle Road Columbia Falls,B158,Deer Park 6-8 School 2105 Middle Rd Columbia Falls,0.8009746
+A309,Deerfield School 1211 Oro Country Road Lewistown,B381,Lewistown 7-8 School 914 W Main St Lewistown,0.8328744
+A310,Denton High School PO Box 1048 Denton,B162,Denton High School 1200 Lehman St Denton,0.93012387
+A311,Denton School PO Box 1048 Denton,B160,Denton 6-8 School Po Box 1048 Denton,0.94319355
+A312,Denton 6-8 PO Box 1048 Denton,B160,Denton 6-8 School Po Box 1048 Denton,0.8626614
+A313,DeSmet School 6355 Padre Lane Missoula,B164,Desmet Elementary School A.K.A. Desmet School 6355 Padre Ln Missoula,0.9337627
+A314,DeSmet 6-8 6355 Padre Lane Missoula,B163,Desmet 6-8 School 6355 Padre Ln Missoula,0.7673449
+A315,Dillon Middle School 22 North Cottom Dillon,B165,Dillon Middle School 14 Cottom Dr Dillon,0.95334023
+A316,Parkview School 22 North Cottom Dillon,B484,Parkview School 32 Cottom Dr Dillon,0.9431193
+A317,Divide School 50 Schoolhouse Road Divide,B643,Trout Creek School 4 School Lane Trout Creek,0.65803355
+A318,Dixon 7-8 PO Box 10 Dixon,B166,Dixon 7-8 School 411 B St Dixon,0.68173325
+A319,Dixon Elementary PO Box 10 Dixon,B167,Dixon Elementary School 411 B St Dixon,0.9044549
+A320,Dodson School Box 278 Dodson,B168,Dodson 7-8 School Po Box 278 Dodson,0.84967905
+A321,Dodson High School Box 278 Dodson,B168,Dodson 7-8 School Po Box 278 Dodson,0.795919
+A322,Dodson 7-8 Box 278 Dodson,B168,Dodson 7-8 School Po Box 278 Dodson,0.63133925
+A323,Drummond School Box 349 108 West Edwards Drummond,B172,Drummond Elementary School 108 W Edwards Drummond,0.8890594
+A324,Drummond 7-8 Box 349 108 West Edwards Drummond,B172,Drummond Elementary School 108 W Edwards Drummond,0.71606374
+A325,Drummond High School Box 349 108 West Edwards Drummond,B172,Drummond Elementary School 108 W Edwards Drummond,0.8879999
+A326,Dupuyer School PO Box 149 Dupuyer,B168,Dodson 7-8 School Po Box 278 Dodson,0.69260657
+A327,East Glacier Park School Box 150 E Glacier Park,B676,West Glacier Elementary School 160 Old Bridge Rd West Glacier,0.79911745
+A328,Ekalaka Elementary School Box 458 Ekalaka,B190,Ekalaka Elementary School 121 West Speelmon St Ekalaka,0.86306906
+A329,Ekalaka 7-8 Box 458 Ekalaka,B189,Ekalaka 7-8 School 111 West Speelmon St Ekalaka,0.61304414
+A330,Elder Grove School 1532 South 64 Street W Billings,B192,Elder Grove School 1532 S 64th St W Billings,0.9899312
+A331,Elder Grove 7-8 1532 South 64 Street W Billings,B191,Elder Grove 7-8 School 1532 S 64th St W Billings,0.79002154
+A332,Elliston School PO Box 160 Elliston,B323,"Hillcrest Elementary School Po Box 288, 500 B Avenue Ne Harlowton",0.72620475
+A333,Elysian School 6416 Elysian Road Billings,B194,Elysian Elementary School 6416 Elysian Rd Billings,0.96453905
+A334,Elysian Middle School 6416 Elysian Road Billings,B194,Elysian Elementary School 6416 Elysian Rd Billings,0.9752575
+A335,Ennis High School Box 517 Ennis,B197,Ennis 7-8 School Po Box 517 Ennis,0.828778
+A336,Ennis School Box 517 Ennis,B197,Ennis 7-8 School Po Box 517 Ennis,0.83431935
+A337,Ennis 7-8 Box 517 Ennis,B197,Ennis 7-8 School Po Box 517 Ennis,0.6084605
+A338,Eureka Elementary School PO Box 2000 Eureka,B200,Eureka Elementary School 340 9th Street East Eureka,0.9032979
+A339,Eureka Middle School 5-8 PO Box 2000 Eureka,B200,Eureka Elementary School 340 9th Street East Eureka,0.88349694
+A340,Fairfield Elementary School Box 399 Fairfield,B206,Fairfield 7-8 School Po Box 99 Fairfield,0.9126227
+A341,Fairfield 7-8 Box 399 Fairfield,B206,Fairfield 7-8 School Po Box 99 Fairfield,0.82355845
+A342,Fairfield High School Box 399 Fairfield,B206,Fairfield 7-8 School Po Box 99 Fairfield,0.883761
+A343,Fairview School PO Box 467 Fairview,B210,Fairview 7-8 School Po Box 467 Fairview,0.94630504
+A344,Fairview 6-8 PO Box 467 Fairview,B210,Fairview 7-8 School Po Box 467 Fairview,0.81816053
+A345,Fair-Mont-Egan School 797 Fairmont Road Kalispell,B205,Fair-Mont-Egan School 797 Fairmont Rd Kalispell,0.9955418
+A346,Fair-Mont-Egan Middle School 797 Fairmont Road Kalispell,B204,Fair-Mont-Egan Middle School 797 Fairmont Rd Kalispell,0.99624014
+A347,Fairview High School PO Box 467 Fairview,B212,Fairview High School 713 Southwestern Ave Fairview,0.9146669
+A348,Fergus High School 215 7th Avenue South Lewistown,B213,Fergus High School 1001 Casino Creek Lewistown,0.9403799
+A349,Fishtail School PO Box 75 Fishtail,B652,Two Eagle River Schools Po Box 160 Pablo,0.70687556
+A350,Wise River School PO Box 40 Wise River,B713,Wise River Elementary School Po Box 40 Wise River,0.9535882
+A351,East Evergreen School 18 West Evergreen Drive Kalispell,B180,East Evergreen Elem School 353 E Evergreen Dr Kalispell,0.9571869
+A352,Evergreen Junior High 18 West Evergreen Drive Kalispell,B202,Evergreen Junior High 18 W Evergreen Dr Kalispell,0.95076245
+A353,Bissell School 5955 Farm To Market Road Whitefish,B57,Bissell 7-8 School 5955 Farm To Market Rd Whitefish,0.9488714
+A354,Bissell 7-8 5955 Farm To Market Road Whitefish,B57,Bissell 7-8 School 5955 Farm To Market Rd Whitefish,0.8378452
+A355,Florence-Carlton El Schl 5602 Old Highway 93 Florence,B217,Florence-Carlton Elem School 5602 Old Us Highway 93 Florence,0.83571035
+A356,Florence-Carlton HS 5602 Old Highway 93 Florence,B217,Florence-Carlton Elem School 5602 Old Us Highway 93 Florence,0.92582834
+A357,Florence-Carlton 6-8 5602 Old Highway 93 Florence,B216,Florence-Carlton 6-8 School 5602 Old Us Highway 93 Florence,0.88812983
+A358,Forsyth 7-8 Box 319 Forsyth,B220,Forsyth Elementary School 1850 Cedar Street Forsyth,0.66891134
+A359,Forsyth Elementary School Box 319 Forsyth,B221,Forsyth High School 917 Park Forsyth,0.82575816
+A360,Forsyth High School Box 319 Forsyth,B221,Forsyth High School 917 Park Forsyth,0.883939
+A361,Fort Benton 7-8 PO Box 399 Fort Benton,B223,Fort Benton 7-8 School 1820 Washington St Fort Benton,0.75195843
+A362,Fort Benton School PO Box 399 Fort Benton,B224,Fort Benton Elementary School 1406 Franklin St Fort Benton,0.8978241
+A363,Fort Benton High School PO Box 399 Fort Benton,B224,Fort Benton Elementary School 1406 Franklin St Fort Benton,0.89626753
+A364,Fortine School Box 96 Fortine,B3,Absarokee High School Rr 1 Box 2020 Absarokee,0.5942768
+A365,Fortine 7-8 Box 96 Fortine,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.44563815
+A366,Frazer Elementary PO Box 488 Frazer,B230,Frazer 7-8 School Po Box 488 Frazer,0.72267866
+A367,Frazer 7-8 PO Box 488 Frazer,B230,Frazer 7-8 School Po Box 488 Frazer,0.7700422
+A368,Frazer High School PO Box 488 Frazer,B230,Frazer 7-8 School Po Box 488 Frazer,0.91649425
+A369,Frenchtown Elementary School PO Box 117 Frenchtown,B234,Frenchtown High School 17620 Frontage Rd Frenchtown,0.86757267
+A370,Frenchtown High School PO Box 117 Frenchtown,B234,Frenchtown High School 17620 Frontage Rd Frenchtown,0.89822966
+A371,Frenchtown 6-8 PO Box 117 Frenchtown,B591,Sheridan 7-8 Po Box 586 Sheridan,0.724657
+A372,Frenchtown Intermediate School PO Box 117 Frenchtown,B235,Frenchtown Intermediate School 16495 Main St Frenchtown,0.89240795
+A373,Bronc Fast Track PO Box 117 Frenchtown,B362,Kingsbury Colony Attn Center Po Box 528 Valier,0.570374
+A374,Froid Elementary School Box 218 Froid,B237,Froid 7-8 School Po Box 218 Froid,0.81462854
+A375,Froid 7-8 Box 218 Froid,B237,Froid 7-8 School Po Box 218 Froid,0.6389
+A376,Froid High School Box 218 Froid,B237,Froid 7-8 School Po Box 218 Froid,0.7310818
+A377,Fromberg School 319 School Street Fromberg,B397,Linderman Elementary School 312 4th Ave E Polson,0.7350446
+A378,Fromberg High School 319 School Street Fromberg,B318,Highwood High School 160 West Street South Highwood,0.76698804
+A379,Fromberg Middle School 319 School Street Fromberg,B606,South Side Elementary School 415 4th Ave S Wolf Point,0.7566779
+A380,Frontier School 6996 Roy St. Wolf Point,B241,Frontier Elementary School 6996 Roy Street Wolf Point,0.9449692
+A381,Frontier 7-8 6996 Roy St. Wolf Point,B240,Frontier 7-8 School Po Box 3043 Wolf Point,0.78703225
+A382,Galata School Box 76 Galata,B242,"Galata Elementary School Po Box 76, 10 Division Avenue Galata",0.6798746
+A383,Gallatin Gateway School PO Box 265 Gallatin Gateway,B244,Gallatin Gateway School 100 Mill Street Gallatin Gtwy,0.88019884
+A384,Gallatin Gateway 7-8 PO Box 265 Gallatin Gateway,B244,Gallatin Gateway School 100 Mill Street Gallatin Gtwy,0.6915209
+A385,Gardiner School 510 Stone Street Gardiner,B246,Gardiner Elementary School 510 Stone St Gardiner,0.96178293
+A386,Gardiner 7-8 510 Stone Street Gardiner,B245,Gardiner 7-8 School Po Box 26 Gardiner,0.79612285
+A387,Gardiner High School 510 Stone Street Gardiner,B247,Gardiner High School 510 Stone St Gardiner,0.99247795
+A388,Garfield Co Dist HS Box 409 Jordan,B248,Garfield Co District High Sch 324 Marguerite St Jordan,0.8339229
+A389,Ross School 1491 Old Stage Rd Mosby,B548,Rossiter Elementary School 1497 Sierra Rd E Helena,0.7533771
+A390,Sand Springs School 160 Twin Buttes Road Sand Springs,B333,Hot Springs Elementary School 325 Broadway Hot Springs,0.7939118
+A391,Geraldine Elementary PO Box 347 Geraldine,B251,Geraldine 7-8 School (Middle School) Po Box 347 Geraldine,0.94306624
+A392,Geraldine High School PO Box 347 Geraldine,B251,Geraldine 7-8 School (Middle School) Po Box 347 Geraldine,0.935202
+A393,Geraldine Middle School PO Box 347 Geraldine,B251,Geraldine 7-8 School (Middle School) Po Box 347 Geraldine,0.9553391
+A394,Geyser School PO Box 70 Geyser,B256,Geyser School Po Box 70 Geyser,0.99999994
+A395,Geyser High School PO Box 70 Geyser,B255,Geyser High School Po Box 70 Geyser,1.0
+A396,Geyser 7-8 PO Box 70 Geyser,B254,Geyser 7-8 School Po Box 70 Geyser,0.8764341
+A397,Gildford Colony School PO Box 138 Gildford,B258,Gildford Colony Elem School Po Box 138 Gildford,0.976435
+A398,Irle Elementary School Box 28 Glasgow,B264,Glasgow Middle School 11 Laser Drive Glasgow,0.80260605
+A399,Glasgow High School Box 28 Glasgow,B264,Glasgow Middle School 11 Laser Drive Glasgow,0.8094603
+A400,Glasgow Middle School Box 28 Glasgow,B264,Glasgow Middle School 11 Laser Drive Glasgow,0.8247405
+A401,Jefferson School Box 701 Glendive,B345,Jefferson Elementary School 800 Jefferson School Rd Glendive,0.84395313
+A402,Lincoln School Box 701 Glendive,B393,Lincoln High School Po Box 39 Lincoln,0.8372142
+A403,Washington Middle School Box 701 Glendive,B672,Washington Middle School 505 N Meade Ave Glendive,0.85713226
+A404,Gold Creek School 825 Gold Creek Road Gold Creek,B643,Trout Creek School 4 School Lane Trout Creek,0.76158285
+A405,Golden Ridge School 1374 Hiway 408 Fairfield,B266,Golden Valley Colony School 240 Highway 300 Ryegate,0.8469898
+A406,Granite High School PO Box 400 Philipsburg,B267,Granite High School 407 Schnepel St Philipsburg,0.92588115
+A407,Philipsburg School PO Box 400 Philipsburg,B486,Philipsburg 7-8 School 407 Schnepel Street Philipsburg,0.8818855
+A408,Philipsburg 7-8 PO Box 400 Philipsburg,B486,Philipsburg 7-8 School 407 Schnepel Street Philipsburg,0.7239087
+A409,Grant School 12420 MT Hwy 324 Dillon,B268,Grant Elementary School 12420 Mt Highway 324 Dillon,0.9508746
+A410,Grass Range School PO Box 58 Grass Range,B269,Grass Range 7-8 School Po Box 58 Grass Range,0.89860797
+A411,Grass Range 7-8 PO Box 58 Grass Range,B269,Grass Range 7-8 School Po Box 58 Grass Range,0.9311193
+A412,Grass Range High School PO Box 58 Grass Range,B271,Grass Range High School 311 East 2nd Street Grass Range,0.8968096
+A413,Chief Joseph School PO Box 2429 Great Falls,B118,Chief Joseph Elementary School 5305 3rd Ave S Great Falls,0.87933457
+A414,Lewis & Clark School PO Box 2429 Great Falls,B379,Lewis & Clark Elementary School 3800 1st Ave S Great Falls,0.86389947
+A415,Lincoln School PO Box 2429 Great Falls,B393,Lincoln High School Po Box 39 Lincoln,0.8768128
+A416,Longfellow School PO Box 2429 Great Falls,B408,Longfellow Elementary School 1100 6th Ave S Great Falls,0.8871799
+A417,Loy School PO Box 2429 Great Falls,B413,Loy Elementary School 501 57th St N Great Falls,0.8699329
+A418,Meadow Lark School PO Box 2429 Great Falls,B431,Meadow Lark Elementary School 2204 Fox Farm Rd Great Falls,0.9058087
+A419,Morningside School PO Box 2429 Great Falls,B453,Morningside Elementary School 4119 7th Ave N Great Falls,0.8947888
+A420,Mountain View School PO Box 2429 Great Falls,B455,Mountain View Elementary School 3420 15th Ave S Great Falls,0.879044
+A421,Riverview School PO Box 2429 Great Falls,B534,Riverview Elementary School 100 Smelter Ave Great Falls,0.8821491
+A422,Sacajawea School PO Box 2429 Great Falls,B561,Sacajawea Elementary School 630 Sacajawea Dr Great Falls,0.8895948
+A423,Sunnyside School PO Box 2429 Great Falls,B626,Sunnyside Elementary School 1800 19th St S Great Falls,0.885611
+A424,Valley View School PO Box 2429 Great Falls,B660,Valley View Elementary School 900 Avenue A Nw Great Falls,0.86674327
+A425,Whittier School PO Box 2429 Great Falls,B698,Whittier Elementary School 305 8th St N Great Falls,0.8756188
+A426,West Elementary PO Box 2429 Great Falls,B674,West Elementary School 1205 1st Ave Nw Great Falls,0.90239847
+A427,East Middle School PO Box 2429 Great Falls,B183,East Middle School 4040 Central Ave Great Falls,0.9230656
+A428,North Middle School PO Box 2429 Great Falls,B463,North Middle School 2601 8th St Ne Great Falls,0.91542554
+A429,Giant Springs Elementary PO Box 2429 Great Falls,B257,Giant Springs Elementary School 520 32nd St N Great Falls,0.89114237
+A430,CORE School at Morningside El PO Box 2429 Great Falls,B453,Morningside Elementary School 4119 7th Ave N Great Falls,0.8100143
+A431,C M Russell High School PO Box 2429 Great Falls,B89,C M Russell High School 228 17th Ave Nw Great Falls,0.9506353
+A432,Great Falls High School PO Box 2429 Great Falls,B273,Great Falls High School 1900 2nd Ave S Great Falls,0.8843461
+A433,Greenfield 7-8 590 Hwy 431 Fairfield,B274,Greenfield 7-8 School 590 2nd Rd Ne Fairfield,0.84100246
+A434,Greenfield School 590 Hwy 431 Fairfield,B275,Greenfield Elementary School 590 2nd Rd Ne Fairfield,0.9615353
+A435,Greycliff School PO Box 65 Greycliff,B258,Gildford Colony Elem School Po Box 138 Gildford,0.7183901
+A436,Hall School 109 West Main Hall,B523,Red Lodge High School 800 North Chambers Red Lodge,0.73369926
+A437,Daly School 217 Daly Avenue Hamilton,B150,Daly Elementary School 208 Daly Ave Hamilton,0.9560269
+A438,Washington School 217 Daly Avenue Hamilton,B669,Washington Elementary School 225 N 5th St Hamilton,0.9162362
+A439,Hamilton Middle School 217 Daly Avenue Hamilton,B278,Hamilton Middle School 209 S 5th St Hamilton,0.966142
+A440,Hamilton High School 217 Daly Avenue Hamilton,B277,Hamilton High School 327 Fairgrounds Rd Hamilton,0.95198214
+A441,Bitterroot Polytech HS 217 Daly Avenue Hamilton,B277,Hamilton High School 327 Fairgrounds Rd Hamilton,0.7397347
+A442,Bitterroot Polytech 7-8 217 Daly Avenue Hamilton,B277,Hamilton High School 327 Fairgrounds Rd Hamilton,0.58363855
+A443,Hammond School 11 Talcott Lane Hammond,B484,Parkview School 32 Cottom Dr Dillon,0.7135783
+A444,Hawks Home School 11 Talcott Lane Hammond,B623,Sunburst 7-8 School 220 1st St South Sunburst,0.7041882
+A445,Crow Agency School 401 Park Road Hardin,B282,Hardin Primary School 314 3rd St W Hardin,0.80558485
+A446,Fort Smith School 401 Park Road Hardin,B282,Hardin Primary School 314 3rd St W Hardin,0.85888666
+A447,Hardin Middle School 401 Park Road Hardin,B281,Hardin Middle School 611 5th St W Hardin,0.9713736
+A448,Hardin Intermediate 401 Park Road Hardin,B280,Hardin Intermediate School 631 5th St W Hardin,0.9163196
+A449,Hardin Primary 401 Park Road Hardin,B282,Hardin Primary School 314 3rd St W Hardin,0.837694
+A450,Hardin High School 401 Park Road Hardin,B279,Hardin High School 702 N Terry Ave Hardin,0.9711677
+A451,Plenty Coups High School Box 229 Pryor,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.6338821
+A452,Harlem Elementary School PO Box 339 Harlem,B284,Harlem Elementary School 110 Third Ave Sw Harlem,0.9012039
+A453,Harlem 7-8 PO Box 339 Harlem,B283,Harlem 7-8 School 610 First Ave Se Harlem,0.7693634
+A454,Harlem High School PO Box 339 Harlem,B285,Harlem High School 610 First Ave Se Harlem,0.8644551
+A455,Hillcrest School PO Box 288 Harlowton,B323,"Hillcrest Elementary School Po Box 288, 500 B Avenue Ne Harlowton",0.97020805
+A456,Harlowton High School PO Box 288 Harlowton,B286,Harlowton High School 304 Division Street Harlowton,0.9425006
+A457,Hillcrest 7-8 PO Box 288 Harlowton,B320,Hillcrest 7-8 304 Division Street Harlowton,0.9472665
+A458,Harrison School PO Box 7 Harrison,B289,Harrison School 7540 Hwy 287 Harrison,0.900828
+A459,Harrison High School PO Box 7 Harrison,B288,Harrison High School 7540 Highway 287 Harrison,0.8912412
+A460,Harrison 6-8 PO Box 7 Harrison,B289,Harrison School 7540 Hwy 287 Harrison,0.70894265
+A461,Havre Middle School Box 7791 Havre,B291,Havre Middle School 1441 11th St W Havre,0.889047
+A462,Highland Park School Box 7791 Havre,B316,Highland Park Elementary Sch 1207 Washington Ave Havre,0.8221086
+A463,Lincoln-McKinley School Box 7791 Havre,B395,Lincoln-Mckinley Elem School 801 4th St Havre,0.8489872
+A464,Sunnyside School Box 7791 Havre,B627,Sunnyside Elementary School 601 14th St Havre,0.8234197
+A465,Havre High School Box 7791 Havre,B290,Havre High School 900 18th St Havre,0.8857616
+A466,Lodge Pole School PO Box 110 Hays,B402,Lodge Pole Elementary School 163 Dora Helgeson Rd Hays,0.88504016
+A467,Hays-Lodge Pole High Sch PO Box 110 Hays,B294,Hays-Lodge Pole 7-8 197 Thunderbird Ln Hays,0.74246156
+A468,Hays-Lodge Pole 7-8 PO Box 110 Hays,B294,Hays-Lodge Pole 7-8 197 Thunderbird Ln Hays,0.79280305
+A469,Helena Flats School 1000 Helena Flats Road Kalispell,B301,Helena Flats School 1000 Helena Flats Rd Kalispell,0.9953134
+A470,Helena Flats 7-8 1000 Helena Flats Road Kalispell,B301,Helena Flats School 1000 Helena Flats Rd Kalispell,0.8407388
+A471,Capital High School 1325 Poplar Street Helena,B94,Capital High School 100 Valley Dr Helena,0.94305503
+A472,Helena High School 1325 Poplar Street Helena,B302,Helena High School 1300 Billings Ave Helena,0.9701797
+A473,Mount Ascension Learning Ac HS 1325 Poplar Street Helena,B303,Helena Middle School 1025 N Rodney St Helena,0.84486365
+A474,Helena P.A.L. 1325 Poplar Street Helena,B305,Helena P.A.L 815 Front St Helena,0.88811517
+A475,Hellgate Elem Lower Grades 2385 Flynn Lane Missoula,B412,Lower Grade A.K.A. Hellgate Elem Lower Grades 2355 Flynn Ln Missoula,0.90896714
+A476,Hellgate Middle School 2385 Flynn Lane Missoula,B308,Hellgate Middle School 2381 Flynn Ln Missoula,0.97280645
+A477,Hellgate El Intermediate 2385 Flynn Lane Missoula,B306,Hellgate El Intermediate 2375 Flynn Ln. Missoula,0.94068015
+A478,Hellgate El Primary Grades 2385 Flynn Lane Missoula,B309,Hellgate Primary School A.K.A. Hellgate El Primary Grades 2365 Flynn Ln Missoula,0.90735286
+A479,Helmville School PO Box 91 Helmville,B310,Helmville Elementary 210 School House Rd Helmville,0.8998084
+A480,Highwood School 160 West Street South Highwood,B318,Highwood High School 160 West Street South Highwood,0.9899182
+A481,Highwood High School 160 West Street South Highwood,B318,Highwood High School 160 West Street South Highwood,1.0000001
+A482,Highwood Middle School 160 West Street South Highwood,B319,Highwood Middle School 160 West Street South Highwood,0.9999999
+A483,Cottonwood School PO Box 1024 Havre,B139,Cottonwood Elementary School 14627 Wildhorse Road Havre,0.8893508
+A484,Hinsdale School PO Box 398 Hinsdale,B327,"Hinsdale School Po Box 398, 600 North Montana Hinsdale",0.9054773
+A485,Hinsdale 7-8 PO Box 398 Hinsdale,B325,"Hinsdale 7-8 Po Box 398, 600 N Montana Hinsdale",0.89461
+A486,Hinsdale High School PO Box 398 Hinsdale,B326,"Hinsdale High School Po Box 398, 600 N Montana Hinsdale",0.9248808
+A487,Hobson School PO Box 410 Hobson,B330,"Hobson School Po Box 410, 108 6th Street E Hobson",0.96025383
+A488,Hobson High School PO Box 410 Hobson,B330,"Hobson School Po Box 410, 108 6th Street E Hobson",0.9171426
+A489,Hobson 6-8 PO Box 410 Hobson,B330,"Hobson School Po Box 410, 108 6th Street E Hobson",0.75191206
+A490,Hot Springs School PO Box 1005 Hot Springs,B333,Hot Springs Elementary School 325 Broadway Hot Springs,0.8466622
+A491,Hot Springs High School PO Box 1005 Hot Springs,B334,Hot Springs High School 325 Broadway Hot Springs,0.8644436
+A492,Hot Springs 7-8 PO Box 1005 Hot Springs,B488,Plains 7-8 Po Box 549 Plains,0.7143108
+A493,Huntley Project Elem K-6 1477 Ash Street Worden,B336,Huntley Project Elem School 1477 Ash St Worden,0.89838994
+A494,Huntley Project High Schl 1477 Ash Street Worden,B337,Huntley Project High School 1477 Ash St Worden,0.94451666
+A495,Huntley Project 7-8 1477 Ash Street Worden,B336,Huntley Project Elem School 1477 Ash St Worden,0.9029843
+A496,Hysham School PO Box 272 Hysham,B338,Hysham 7-8 School 115 Summit Street Hysham,0.8867063
+A497,Hysham High School PO Box 272 Hysham,B340,Hysham High School 115 Summit Street Hysham,0.9235409
+A498,Hysham 7-8 PO Box 272 Hysham,B338,Hysham 7-8 School 115 Summit Street Hysham,0.7083667
+A499,Independent School 2907 Roundup Road Billings,B54,Billings Opportunity School 1044 Cook Ave Billings,0.8630435
+A500,Jackson School PO Box 835 Jackson,B452,"Moore High School Po Box 140, 510 Highland Ave Moore",0.69973624
+A501,Jefferson High School PO Box 838 Boulder,B347,Jefferson High School Po Box 838 Boulder,1.0
+A502,Joliet School PO Box 590 Joliet,B349,Joliet Elementary School 300 Park St Joliet,0.8686908
+A503,Joliet Middle School PO Box 590 Joliet,B351,Joliet Middle School 300 Park St Joliet,0.9101929
+A504,Joliet High School PO Box 590 Joliet,B350,Joliet High School 300 Park St Joliet,0.90539604
+A505,Jordan Elementary School Box 409 Jordan,B352,Jordan 6-8 School Po Box 309 Jordan,0.9017006
+A506,Jordan 7-8 Box 409 Jordan,B352,Jordan 6-8 School Po Box 309 Jordan,0.62843835
+A507,Judith Gap School PO Box 67 Judith Gap,B356,Judith Gap High School Po Box 67 Judith Gap,0.9580878
+A508,Judith Gap 7-8 PO Box 67 Judith Gap,B356,Judith Gap High School Po Box 67 Judith Gap,0.79905665
+A509,Judith Gap High School PO Box 67 Judith Gap,B356,Judith Gap High School Po Box 67 Judith Gap,1.0000001
+A510,Glacier High School 233 First Ave East Kalispell,B261,Glacier High School 375 Wolfpack Way Kalispell,0.9043884
+A511,Flathead High School 233 First Ave East Kalispell,B214,Flathead High School 644 4th Ave W Kalispell,0.9852848
+A512,Flathead Pace Academy 233 First Ave East Kalispell,B215,Flathead Pace Academy 644 4th Ave. Sw Kalispell,0.98073226
+A513,Kalispell Rising Wolf Charter 233 First Ave East Kalispell,B359,"Kalispell Rising Wolf Charter 233 First Ave Kalispell,",0.9849199
+A514,Kalispell Middle School 233 First Ave East Kalispell,B358,Kalispell Middle School 205 Northwest Ln Kalispell,0.9534657
+A515,Cornelius Hedges School 233 First Ave East Kalispell,B136,Cornelius Hedges Elem School 827 4th Ave E Kalispell,0.96594685
+A516,Edgerton School 233 First Ave East Kalispell,B187,Edgerton Elementary School 1400 Whitefish Stage Rd Kalispell,0.9633107
+A517,Elrod School 233 First Ave East Kalispell,B193,Elrod Elementary School 412 3rd Ave W Kalispell,0.957067
+A518,Lillian Peterson School 233 First Ave East Kalispell,B385,Lilian Peterson Elem School 1119 2nd St W Kalispell,0.899441
+A519,Russell School 233 First Ave East Kalispell,B556,Russell Elementary School 227 W Nevada St Kalispell,0.957113
+A520,Jeannette Rankin Elementary Sc 233 First Ave East Kalispell,B342,Jeanette Rankin Elementary School 2155 Airport Rd Kalispell,0.94135976
+A521,Kester School 2031 Haxby Road Jordan,B353,Jordan Elementary School School Street Jordan,0.797704
+A522,Kila 7-8 PO Box 40 Kila,B488,Plains 7-8 Po Box 549 Plains,0.5468684
+A523,Kila School PO Box 40 Kila,B189,Ekalaka 7-8 School 111 West Speelmon St Ekalaka,0.7054951
+A524,King Colony School 982 Jenni Road Lewistown,B381,Lewistown 7-8 School 914 W Main St Lewistown,0.8532927
+A525,Kircher School 331 Kircher Creek Rd Miles City,B315,Highland Park Elementary Sch 716 Cale Ave Miles City,0.7927631
+A526,Knees School 4177 Beaver Slide Rd Carter,B271,Grass Range High School 311 East 2nd Street Grass Range,0.7375425
+A527,Dayton School PO Box 195 Dayton,B156,Dayton Elementary School 43662 B St Dayton,0.8563825
+A528,Salmon Prairie School 23187 MT Hwy 83 Swan Lake,B572,Salmon Prairie School 23187 Mt Highway 83 Swan Lake,0.996117
+A529,Lambert School Box 260 Lambert,B364,Lambert 7-8 School Po Box 260 Lambert,0.83756006
+A530,Lambert 7-8 Box 260 Lambert,B364,Lambert 7-8 School Po Box 260 Lambert,0.5259198
+A531,Lambert High School Box 260 Lambert,B364,Lambert 7-8 School Po Box 260 Lambert,0.83036625
+A532,Lame Deer School Box 96 Lame Deer,B369,"Lame Deer Public School Po Box 96, 101 West Boundary St Lame Deer",0.6313429
+A533,Lame Deer 7-8 Box 96 Lame Deer,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.4389459
+A534,LaMotte 6-8 841 Bear Canyon Road Bozeman,B716,Woodman 7-8 18470 Highway 12 W Lolo,0.68881553
+A535,LaMotte School 841 Bear Canyon Road Bozeman,B447,Monforton School (Grades 3-5) 6001 Monforton School Rd Bozeman,0.81098104
+A536,Fred W Graff School 410 Colorado Avenue Laurel,B371,Laurel High School 203 E 8th St Laurel,0.7959392
+A537,West School 410 Colorado Avenue Laurel,B371,Laurel High School 203 E 8th St Laurel,0.8896259
+A538,Laurel Middle School 410 Colorado Avenue Laurel,B373,Laurel Middle School 725 Washington Ave Laurel,0.9802511
+A539,South School 410 Colorado Avenue Laurel,B605,South Elementary School Aka South School 606 S 5th St Laurel,0.92399865
+A540,Laurel High School 410 Colorado Avenue Laurel,B371,Laurel High School 203 E 8th St Laurel,0.98391724
+A541,Lavina Elementary PO Box 290 Lavina,B374,Lavina 7-8 School Po Box 146 Lavina,0.9106923
+A542,Lavina High School PO Box 290 Lavina,B374,Lavina 7-8 School Po Box 146 Lavina,0.92099774
+A543,Lavina Middle School PO Box 290 Lavina,B374,Lavina 7-8 School Po Box 146 Lavina,0.9456228
+A544,Garfield School 215 7th Avenue South Lewistown,B249,Garfield Elementary School 415 E Boulevard St Lewistown,0.94883657
+A545,Highland Park School 215 7th Avenue South Lewistown,B314,Highland Park Elementary Sch 1312 7th Ave N Lewistown,0.9266788
+A546,Lewis & Clark School 215 7th Avenue South Lewistown,B378,Lewis & Clark Elementary Sch 212 Crystal Dr Lewistown,0.91900235
+A547,Lewistown 7-8 215 7th Avenue South Lewistown,B381,Lewistown 7-8 School 914 W Main St Lewistown,0.7974965
+A548,Libby Elementary School 724 Louisiana Ave Libby,B384,Libby Middle School 724 Louisiana Ave Libby,0.9787514
+A549,Libby Middle School 724 Louisiana Ave Libby,B384,Libby Middle School 724 Louisiana Ave Libby,1.0
+A550,Libby High School 724 Louisiana Ave Libby,B383,Libby High School 724 Louisiana Ave Libby,0.99999994
+A551,Lima School PO Box 186 Lima,B374,Lavina 7-8 School Po Box 146 Lavina,0.71436715
+A552,Lima High School PO Box 186 Lima,B134,Columbus Middle School Po Box 899 Columbus,0.7344567
+A553,Lima 7-8 PO Box 186 Lima,B591,Sheridan 7-8 Po Box 586 Sheridan,0.6558904
+A554,Lincoln Co High School PO Box 2000 Eureka,B393,Lincoln High School Po Box 39 Lincoln,0.864827
+A555,Lincoln Elementary School PO Box 39 Lincoln,B386,Lincoln 7-8 School Po Box 39 Lincoln,0.9523519
+A556,Lincoln High School PO Box 39 Lincoln,B393,Lincoln High School Po Box 39 Lincoln,1.0
+A557,Lincoln 7-8 PO Box 39 Lincoln,B386,Lincoln 7-8 School Po Box 39 Lincoln,0.8016087
+A558,B A Winans School 132 South B Street Livingston,B23,B A Winans Elementary School 1015 W Clark St Livingston,0.93837595
+A559,East Side School 132 South B Street Livingston,B23,B A Winans Elementary School 1015 W Clark St Livingston,0.8669471
+A560,Sleeping Giant Middle Sch 132 South B Street Livingston,B584,"Sheilds Valley 7-8 405 1st Street, East Clyde Park",0.6602286
+A561,Lodge Grass School PO Box 810 Lodge Grass,B454,Mountain View Elementary Sch Po Box 1090 Red Lodge,0.75090843
+A562,Lodge Grass 7-8 PO Box 810 Lodge Grass,B488,Plains 7-8 Po Box 549 Plains,0.75764537
+A563,Lodge Grass High School PO Box 810 Lodge Grass,B631,Sweet Grass Co High School Po Box 886 Big Timber,0.777841
+A564,Lolo Elementary 11395 Highway 93 South Lolo,B403,Lolo Elementary School 5305 Farm Lane Lolo,0.9624717
+A565,Lolo Middle School 11395 Highway 93 South Lolo,B404,Lolo Middle School 5305 Farm Lane Lolo,0.9638104
+A566,Lone Rock Middle School 1112 Three Mile Creek Rd Stevensville,B406,Lone Rock School 1112 Three Mile Creek Rd Stevensville,0.96744823
+A567,Lone Rock School 1112 Three Mile Creek Rd Stevensville,B406,Lone Rock School 1112 Three Mile Creek Rd Stevensville,1.0
+A568,Lustre School 282 Lustre Road Frazer,B416,Lustre Elementary School A.K.A. Lustre School 6 Lustre Grade Ln Lustre,0.71953964
+A569,Luther School 4 Luther Roscoe Road Luther,B157,De La Salle Blackfeet Middle School 104 1st Street Nw Browning,0.7537941
+A570,Alder School PO Box 127 Alder,B7,Alder Elementary School 36 Ruby Rd Alder,0.8569401
+A571,Malmborg School 375 Jackson Creek Road Bozeman,B447,Monforton School (Grades 3-5) 6001 Monforton School Rd Bozeman,0.8194109
+A572,Malta 6-7-8 PO Box 670 Malta,B417,Malta 6-8 School Po Box 670 Malta,0.8007276
+A573,Malta K-5 PO Box 670 Malta,B417,Malta 6-8 School Po Box 670 Malta,0.77123594
+A574,Malta High School PO Box 670 Malta,B418,Malta High School Po Box 670 Malta,1.0000001
+A575,Loring Colony School PO Box 670 Malta,B418,Malta High School Po Box 670 Malta,0.8623371
+A576,Manhattan Elem PO Box 425 Manhattan,B362,Kingsbury Colony Attn Center Po Box 528 Valier,0.6284047
+A577,Manhattan 6-8 PO Box 425 Manhattan,B420,Manhattan 7-8 School 416 N. Broadway Manhattan,0.71109295
+A578,Manhattan H S PO Box 425 Manhattan,B423,Manhattan High School 460 N Broadway Manhattan,0.6643678
+A579,Marion School 205 Gopher Lane Marion,B426,Marion Elementary School A.K.A. Marion School 205 Gopher Ln Marion,0.9113054
+A580,Marion 7-8 205 Gopher Lane Marion,B425,Marion 7-8 205 Gopher Lane Marion,1.0000001
+A581,McLeod School 1 Main Street McLeod,B694,Whitehall Senior High School 1 W Yellowstone Whitehall,0.7052196
+A582,Medicine Lake School PO Box 265 311 Young St Medicine Lake,B436,Medicine Lake 7-8 School 311 Young St Medicine Lake,0.8985635
+A583,Medicine Lake High School PO Box 265 311 Young St Medicine Lake,B438,Medicine Lake High School 311 Young St Medicine Lake,0.94075006
+A584,Medicine Lake 7-8 PO Box 265 311 Young St Medicine Lake,B436,Medicine Lake 7-8 School 311 Young St Medicine Lake,0.7303894
+A585,Melrose School PO Box 128 Melrose,B440,"Melstone Elementary School Po Box 97, 5 Sixth Avenue Melstone",0.8316578
+A586,Melstone School Box 97 Melstone,B439,Melstone 6-8 School Po Box 97 Melstone,0.7410072
+A587,Melstone Middle School Box 97 Melstone,B441,Melstone High School Po Box 97 Melstone,0.7326617
+A588,Melstone High School Box 97 Melstone,B441,Melstone High School Po Box 97 Melstone,0.7576976
+A589,Melville School PO Box 275 Melville,B461,Nashua School Po Box 170 Nashua,0.68169427
+A590,Highland Park School 1604 Main Street Miles City,B315,Highland Park Elementary Sch 716 Cale Ave Miles City,0.88337857
+A591,Jefferson School 1604 Main Street Miles City,B344,Jefferson Elementary School 106 N Strevell Ave Miles City,0.91547847
+A592,Lincoln School 1604 Main Street Miles City,B390,Lincoln Elementary School 210 S Lake Ave Miles City,0.88845617
+A593,Washington Middle School 6-8 1604 Main Street Miles City,B671,Washington Middle School 210 N 9th St Miles City,0.8897233
+A594,Garfield School 1604 Main Street Miles City,B250,Garfield Elementary School 1015 Milwaukee St Miles City,0.8729687
+A595,Hellgate High School 909 South Ave West Missoula,B307,Hellgate High School 925 Gerald Ave. Missoula,0.97999984
+A596,Seeley-Swan High School 909 South Ave West Missoula,B582,Seeley Swan High School 456 Airport Road Seeley Lake,0.8335166
+A597,Sentinel High School 909 South Ave West Missoula,B583,Sentinel High School 901 South Ave W Missoula,0.98946434
+A598,Big Sky High School 909 South Ave West Missoula,B46,Big Sky High School 3100 South Ave W Missoula,0.98166543
+A599,Missoula Connect Academy HS 909 South Ave West Missoula,B444,Missoula Teach Academy 1910 South 11th St Missoula,0.8492743
+A600,Chief Charlo School 909 South Ave West Missoula,B117,Chief Charlo Elementary School 5600 Longview Dr Missoula,0.9539988
+A601,Porter Middle School 909 South Ave West Missoula,B507,Porter Middle School 2510 W Central Ave Missoula,0.9834487
+A602,Jeannette Rankin El 909 South Ave West Missoula,B343,Jeannette Rankin Elementary School 5150 Bigfork Rd Missoula,0.7109033
+A603,Franklin School 909 South Ave West Missoula,B229,Franklin Elementary School 1910 S. 11th Street Missoula,0.92514974
+A604,Hawthorne School 909 South Ave West Missoula,B292,Hawthorne Elementary School 550 Hiberta Street Missoula,0.9472709
+A605,Lewis & Clark School 909 South Ave West Missoula,B380,Lewis & Clark Elementary School 2901 Park St Missoula,0.9546679
+A606,Lowell School 909 South Ave West Missoula,B411,Lowell Elementary School 1215 Phillips Street Missoula,0.9260982
+A607,Meadow Hill Middle School 909 South Ave West Missoula,B429,Meadow Hill Middle School 4210 S Reserve St Missoula,0.9800116
+A608,Paxson School 909 South Ave West Missoula,B485,Paxson Elementary School 101 Evans Ave Missoula,0.95650005
+A609,Rattlesnake Elementary School 909 South Ave West Missoula,B522,Rattlesnake Elementary School 1220 Pineview Dr. Missoula,0.9815208
+A610,Russell School 909 South Ave West Missoula,B557,Russell Elementary School 3216 S Russell St Missoula,0.9397721
+A611,Washington Middle School 909 South Ave West Missoula,B673,Washington Middle School 645 W Central Ave Missoula,0.97964716
+A612,Missoula TEACH Academy 909 South Ave West Missoula,B444,Missoula Teach Academy 1910 South 11th St Missoula,0.97591287
+A613,Missoula Connect Academy MS 909 South Ave West Missoula,B444,Missoula Teach Academy 1910 South 11th St Missoula,0.902542
+A614,Molt School PO Box 70 Molt,B454,Mountain View Elementary Sch Po Box 1090 Red Lodge,0.6950892
+A615,Monforton School 6001 Monforton School Rd Bozeman,B445,Monforton 6-8 School 6001 Monforton School Rd Bozeman,0.9477372
+A616,Monforton Primary 6001 Monforton School Rd Bozeman,B446,Monforton Primary School (Grades K-2) 6001 Monforton School Rd Bozeman,0.93623567
+A617,Monforton 6-8 6001 Monforton School Rd Bozeman,B445,Monforton 6-8 School 6001 Monforton School Rd Bozeman,0.9562409
+A618,Montana City School 11 McClellan Creek Road Clancy,B449,Montana City School 11 Mcclellan Creek Rd Clancy,0.9946098
+A619,Montana City Middle Schl 11 McClellan Creek Road Clancy,B448,Montana City Middle School 11 Mcclellan Creek Rd Clancy,0.8316159
+A620,Moore School 509 Highland Moore,B451,"Moore Elementary School Po Box 140, 509 Highland Avenue Moore",0.8494342
+A621,Moore 6-8 509 Highland Moore,B450,Moore 6-8 School Po Box 140 Moore,0.62948686
+A622,Moore High School 509 Highland Moore,B452,"Moore High School Po Box 140, 510 Highland Ave Moore",0.8223005
+A623,Morin School 8824 Pryor Road Billings,B428,Mckinley Elementary School 820 N 31st St Billings,0.8589069
+A624,Nashua School PO Box 170 Nashua,B461,Nashua School Po Box 170 Nashua,0.99999976
+A625,Nashua High School PO Box 170 Nashua,B461,Nashua School Po Box 170 Nashua,0.9466564
+A626,Nashua 6-8 PO Box 170 Nashua,B461,Nashua School Po Box 170 Nashua,0.7775789
+A627,North Harlem Elementary 755 Hillcrest Road Harlem,B284,Harlem Elementary School 110 Third Ave Sw Harlem,0.9421923
+A628,Noxon High School 300 Noxon Ave Noxon,B470,Noxon High School 300 Noxon Ave. Noxon,0.98237014
+A629,Nye School Box 472 Nye,B3,Absarokee High School Rr 1 Box 2020 Absarokee,0.6303948
+A630,Opheim School Box 108 Opheim,B474,"Opheim High School 100 Rock Street, Po Box 108 Opheim",0.7889799
+A631,Opheim High School Box 108 Opheim,B474,"Opheim High School 100 Rock Street, Po Box 108 Opheim",0.84591204
+A632,Opheim 7-8 Box 108 Opheim,B472,"Opheim 7-8 100 Rock Street, Po Box 108 Opheim",0.6688982
+A633,Ovando School PO Box 9 Ovando,B478,Ovando School 1 Birch St Ovando,0.8811306
+A634,Park City School PO Box 278 Park City,B480,Park City 7-8 School Po Box 278 Park City,0.9479488
+A635,Park City 7-8 PO Box 278 Park City,B480,Park City 7-8 School Po Box 278 Park City,0.8251047
+A636,Park City High School PO Box 278 Park City,B480,Park City 7-8 School Po Box 278 Park City,0.91522485
+A637,Park High School 132 South B Street Livingston,B483,Park High School 102 View Vista Dr Livingston,0.9402515
+A638,Pass Creek School 3747 Pass Creek Road Belgrade,B621,Story Creek Elementary School 807 Bolinger Rd Belgrade,0.8629318
+A639,Pendroy School PO Box 65 Pendroy,B514,Power High School Po Box 155 Power,0.6935943
+A640,Pine Creek 6-8 2575 East River Rd Livingston,B584,"Sheilds Valley 7-8 405 1st Street, East Clyde Park",0.70140374
+A641,Pine Creek School 2575 East River Rd Livingston,B23,B A Winans Elementary School 1015 W Clark St Livingston,0.83400136
+A642,Pine Grove School 3646 Brusett Road Brusett,B129,Colstrip High School 5001 Pinebutte Dr Colstrip,0.78096414
+A643,Pioneer School 1937 Dover Road Billings,B401,Lockwood Primary School 1932 Us Highway 87 E Billings,0.818727
+A644,Plains Elementary School Box 549 Plains,B489,Plains Elementary School 412 Rittenour St Plains,0.8023078
+A645,Plains High School Box 549 Plains,B488,Plains 7-8 Po Box 549 Plains,0.77720237
+A646,Plains 7-8 Box 549 Plains,B488,Plains 7-8 Po Box 549 Plains,0.8134872
+A647,Pleasant Valley School 7975 Pleasant Valley Road Marion,B491,Pleasant Valley School 7975 Pleasant Valley Rd Marion,0.9968116
+A648,Plentywood School 100 East Laurel Ave Plentywood,B494,Plentywood High School 100 E Laurel Ave Plentywood,0.95763445
+A649,Plentywood High School 100 East Laurel Ave Plentywood,B494,Plentywood High School 100 E Laurel Ave Plentywood,0.99423707
+A650,Plentywood 7-8 100 East Laurel Ave Plentywood,B492,Plentywood 7-8 School 100 Laurel Ave Plentywood,0.81482565
+A651,Plevna School PO Box 158 Plevna,B495,Plevna  Elementary School 327 N. Main Plevna,0.8717902
+A652,Plevna High School PO Box 158 Plevna,B497,Plevna High School 327 N. Main Plevna,0.9060884
+A653,Plevna 7-8 PO Box 158 Plevna,B496,Plevna 7-8 327 N Main Plevna,0.7017561
+A654,Polaris School 19200 Hwy 278 Dillon,B268,Grant Elementary School 12420 Mt Highway 324 Dillon,0.8427429
+A655,Cherry Valley School 111 4th Avenue East Polson,B113,Cherry Valley Elem School 107 8th Ave W Polson,0.9684591
+A656,Linderman School 111 4th Avenue East Polson,B397,Linderman Elementary School 312 4th Ave E Polson,0.96269095
+A657,Polson Middle School 111 4th Avenue East Polson,B499,Polson Middle School 1602 2nd St W Polson,0.96411985
+A658,Polson High School 111 4th Avenue East Polson,B498,Polson High School 1712 2nd St W Polson,0.96949184
+A659,Miami School 400 New Miami Lane Conrad,B124,Circle High School 1105 F Avenue Circle,0.6970227
+A660,Poplar 7-8 Box 458 Poplar,B502,Poplar 7-8 School 400 4th Avenue West Poplar,0.59202665
+A661,Poplar School Box 458 Poplar,B502,Poplar 7-8 School 400 4th Avenue West Poplar,0.7843779
+A662,Poplar 5-6 School Box 458 Poplar,B502,Poplar 7-8 School 400 4th Avenue West Poplar,0.7751597
+A663,Poplar High School Box 458 Poplar,B504,Poplar High School 400 4th Avenue West Poplar,0.8600536
+A664,Potomac School 29750 Potomac Road Bonner,B509,Potomac Elementary School A.K.A. Potomac School 29750 Potomac Rd Bonner,0.9280648
+A665,Potomac Middle School 29750 Potomac Road Bonner,B508,Potomac 7-8 School A.K.A. Potomac Middle School 29750 Potomac Rd Bonner,0.92348915
+A666,Powell County High School 709 Missouri Avenue Deer Lodge,B511,Powell County High School 709 Missouri Ave Deer Lodge,0.99633825
+A667,Garrison School 33 School House Rd Garrison,B464,North Side Elementary School 710 4th Ave N Wolf Point,0.725239
+A668,Power Elementary PO Box 155 Power,B514,Power High School Po Box 155 Power,0.7454232
+A669,Power Middle School PO Box 155 Power,B514,Power High School Po Box 155 Power,0.9648046
+A670,Power High School PO Box 155 Power,B514,Power High School Po Box 155 Power,1.0000001
+A671,Arrow Creek Elem School Box 229 Pryor,B67,Box Elder Elementary School Po Box 205 Box Elder,0.74813426
+A672,Pryor 7-8 Box 229 Pryor,B38,Belt 7-8 School Po Box 197 Belt,0.50079715
+A673,Ramsay School PO Box 105 Ramsay,B264,Glasgow Middle School 11 Laser Drive Glasgow,0.66656435
+A674,Ramsay Middle School PO Box 105 Ramsay,B264,Glasgow Middle School 11 Laser Drive Glasgow,0.7222493
+A675,Rapelje School PO Box 89 Rapelje,B520,"Rapelje Elementary School Po Box 89, 714 Main Street Rapelje",0.91936374
+A676,Rapelje 7-8 PO Box 89 Rapelje,B519,"Rapelje 7-8 School Po Box 89, 714 Main Street Rapelje",0.80272305
+A677,Rapelje High School PO Box 89 Rapelje,B520,"Rapelje Elementary School Po Box 89, 714 Main Street Rapelje",0.93821967
+A678,Rau School 12138 County Rd #350 Sidney,B597,Sidney High School 1012 4th St Sw Sidney,0.8216687
+A679,Mountain View School PO Box 1090 Red Lodge,B454,Mountain View Elementary Sch Po Box 1090 Red Lodge,0.9392522
+A680,Roosevelt Junior High PO Box 1090 Red Lodge,B543,Roosevelt 4-8 School 413 S Oakes Ave Red Lodge,0.8444674
+A681,Red Lodge High School PO Box 1090 Red Lodge,B523,Red Lodge High School 800 North Chambers Red Lodge,0.8697925
+A682,Reed Point Elementary PO Box 338 Reed Point,B527,Reed Point Elementary School 308 Central Ave Reed Point,0.7225951
+A683,Reed Point 7-8 PO Box 338 Reed Point,B526,Reed Point 7-8th Grade 308 Central Ave Reed Point,0.6779238
+A684,Reed Point High School PO Box 338 Reed Point,B528,Reed Point High School 308 Central Ave Reed Point,0.9203415
+A685,Reichle School PO Box 320097 Glen,B258,Gildford Colony Elem School Po Box 138 Gildford,0.71391904
+A686,Richey School Box 60 Richey,B529,"Richey 7-8 School Po Box 60, 202 Royal Ave Richey",0.75532424
+A687,Richey 7-8 Box 60 Richey,B529,"Richey 7-8 School Po Box 60, 202 Royal Ave Richey",0.61105657
+A688,Richey High School Box 60 Richey,B531,"Richey High School Po Box 60, 202 Royal Ave Richey",0.77173495
+A689,Roberts School PO Box 78 Roberts,B536,Roberts Elementary School 106 Maple Street Roberts,0.8662973
+A690,Roberts High School PO Box 78 Roberts,B536,Roberts Elementary School 106 Maple Street Roberts,0.8566813
+A691,Roberts 7-8 PO Box 78 Roberts,B488,Plains 7-8 Po Box 549 Plains,0.7032299
+A692,Rocky Boy School RR 1 Box 620 Box Elder,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.96571136
+A693,Rocky Boy 7-8 RR 1 Box 620 Box Elder,B538,Rocky Boy 7-8 School Rr 1 Box 62020 Box Elder,0.883355
+A694,Pablo Elementary 421 Andrew Street NW Ronan,B479,Pablo Elementary School 42080 4th Ave East Pablo,0.89620876
+A695,Ronan Middle School 421 Andrew Street NW Ronan,B542,Ronan Middle School 35885 Round Butte Road West Ronan,0.9594169
+A696,K William Harvey Elem 421 Andrew Street NW Ronan,B357,K William Harvey Elem School 221 4th Avenue Nw Ronan,0.7943968
+A697,Ronan High School 421 Andrew Street NW Ronan,B541,Ronan High School 130 3rd Avenue Nw Ronan,0.98360384
+A698,Rosebud School Box 38 Rosebud,B545,Rosebud 7-8 School 101 Main St Rosebud,0.64960027
+A699,Rosebud High School Box 38 Rosebud,B547,Rosebud High School 101 Main St Rosebud,0.65962243
+A700,Rosebud 7-8 Box 38 Rosebud,B545,Rosebud 7-8 School 101 Main St Rosebud,0.52717143
+A701,Roundup Elementary 12 Main Street Roundup,B549,Roundup 7-8 School 525 6th Ave W Roundup,0.74977505
+A702,Roundup 7-8 12 Main Street Roundup,B549,Roundup 7-8 School 525 6th Ave W Roundup,0.7039076
+A703,Roundup H S 12 Main Street Roundup,B549,Roundup 7-8 School 525 6th Ave W Roundup,0.69976676
+A704,Roy School Box 9 Roy,B552,Roy 6-8 School Po Box 9 Roy,0.8079431
+A705,Roy High School Box 9 Roy,B552,Roy 6-8 School Po Box 9 Roy,0.8211396
+A706,Roy 6-8 Box 9 Roy,B552,Roy 6-8 School Po Box 9 Roy,0.7168067
+A707,Ryegate School PO Box 129 Ryegate,B560,Ryegate School 207 2nd Ave W Ryegate,0.9239247
+A708,Ryegate High School PO Box 129 Ryegate,B559,Ryegate High School 207 2nd Ave W Ryegate,0.9383768
+A709,Ryegate 7-8 PO Box 129 Ryegate,B560,Ryegate School 207 2nd Ave W Ryegate,0.7501618
+A710,Saco School Box 298 Saco,B562,Saco 7-8 School 321 Hwy 243 Saco,0.7387606
+A711,Saco 7-8 Box 298 Saco,B562,Saco 7-8 School 321 Hwy 243 Saco,0.5414236
+A712,Saco High School Box 298 Saco,B564,Saco High School 321 Hwy 243 Saco,0.70383596
+A713,Savage School Box 110 Savage,B574,Savage 6-8 School Po Box 110 Savage,0.71752375
+A714,Savage 6-8 Box 110 Savage,B574,Savage 6-8 School Po Box 110 Savage,0.60024214
+A715,Savage High School Box 110 Savage,B574,Savage 6-8 School Po Box 110 Savage,0.7405238
+A716,Scobey School PO Box 10 Scobey,B577,Scobey 7-8 School 205 2nd Avenue East Scobey,0.8683756
+A717,Scobey High School PO Box 10 Scobey,B579,Scobey High School 205 2nd Avenue East Scobey,0.88160634
+A718,Scobey 7-8 PO Box 10 Scobey,B577,Scobey 7-8 School 205 2nd Avenue East Scobey,0.7143893
+A719,Seeley Lake Elementary PO Box 840 Seeley Lake,B581,Seeley Lake Elementary School School Lane Seeley Lake,0.82024205
+A720,Seeley Lake 7-8 PO Box 840 Seeley Lake,B580,Seeley Lake 7-8 200 School Lane Seeley Lake,0.7616775
+A721,Cam Rose School 1010 Oilfield Avenue Shelby,B585,Shelby 6-8 School 1001 Valley Street Shelby,0.8434812
+A722,Shelby Elementary School 1010 Oilfield Avenue Shelby,B586,Shelby Elementary School 901 Valley St Shelby,0.97007513
+A723,Shelby 6-8 1010 Oilfield Avenue Shelby,B585,Shelby 6-8 School 1001 Valley Street Shelby,0.81901133
+A724,Big Rose Colony School 1010 Oilfield Avenue Shelby,B585,Shelby 6-8 School 1001 Valley Street Shelby,0.8485595
+A725,Shelby High School 1010 Oilfield Avenue Shelby,B587,Shelby High School 1001 5th Ave S Shelby,0.9687748
+A726,Shepherd Elementary Box 8 Shepherd,B590,Shepherd Middle School Po Box 8 Shepherd,0.60249996
+A727,Shepherd Middle School Box 8 Shepherd,B590,Shepherd Middle School Po Box 8 Shepherd,0.78230643
+A728,Shepherd High School Box 8 Shepherd,B590,Shepherd Middle School Po Box 8 Shepherd,0.7875645
+A729,Sheridan Elementary Schl PO Box 586 Sheridan,B592,Sheridan Elementary School 105 Madison St Sheridan,0.86480963
+A730,Sheridan 7-8 PO Box 586 Sheridan,B591,Sheridan 7-8 Po Box 586 Sheridan,1.0
+A731,Sheridan High School PO Box 586 Sheridan,B593,Sheridan High School 107 Madison St Sheridan,0.91743094
+A732,Central Elementary 200 3rd Ave SE Sidney,B108,Central Elementary School 200 3rd Ave Se Sidney,0.9757471
+A733,Sidney Middle School 200 3rd Ave SE Sidney,B598,Sidney Middle School 415 S Central Ave Sidney,0.96617854
+A734,West Side Elementary 200 3rd Ave SE Sidney,B677,West Side Elementary School 1100 5th St Sw Sidney,0.95619345
+A735,Sidney High School 200 3rd Ave SE Sidney,B597,Sidney High School 1012 4th St Sw Sidney,0.98380035
+A736,Fort Shaw Elem School Box 380 Simms,B599,Simms High School 123 Walker Street Simms,0.5100241
+A737,Sun River Middle School Box 380 Simms,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.55470675
+A738,Cascade Colony School Box 380 Simms,B599,Simms High School 123 Walker Street Simms,0.50643986
+A739,Simms High School Box 380 Simms,B599,Simms High School 123 Walker Street Simms,0.5431816
+A740,Spring Creek Colony Schl PO Box 1185 Lewistown,B607,Springwater Colony School 100 Springwater Colony Ln Harlowton,0.6583608
+A741,Springhill School 6020 Springhill Comm Road Belgrade,B37,Belgrade High School 303 N Hoffman St Belgrade,0.8081863
+A742,St Regis School PO Box 280 St Regis,B614,St Regis High School 90 Tiger Street St Regis,0.8319261
+A743,St Regis High School PO Box 280 St Regis,B614,St Regis High School 90 Tiger Street St Regis,0.88777596
+A744,St Regis 7-8 PO Box 280 St Regis,B613,St Regis 7-8 90 Tiger Street St Regis,0.8641879
+A745,Stanford School Box 506 Stanford,B617,Stanford High School Po Box 506 Stanford,0.7870868
+A746,Stanford 7-8 Box 506 Stanford,B615,Stanford 7-8 School Po Box 506 Stanford,0.77035797
+A747,Stanford High School Box 506 Stanford,B617,Stanford High School Po Box 506 Stanford,0.8504428
+A748,Stevensville 7-8 300 Park Street Stevensville,B620,Stevensville Jr High School A.K.A. Stevensville 7-8 300 Park St Stevensville,0.76019037
+A749,Stevensville K-6 300 Park Street Stevensville,B618,Stevensville Elementary School A.K.A. Stevensville K-6 300 Park St Stevensville,0.7716236
+A750,Stevensville High School 300 Park Street Stevensville,B619,Stevensville High School 300 Park St Stevensville,0.9946696
+A751,Centerville School 693 Stockett Rd Box 100 Sand Coulee,B105,Centerville Elementary School 693 Stockett Rd Sand Coulee,0.9479279
+A752,Big Stone School 693 Stockett Rd Box 100 Sand Coulee,B105,Centerville Elementary School 693 Stockett Rd Sand Coulee,0.80214334
+A753,Centerville 6-8 693 Stockett Rd Box 100 Sand Coulee,B104,Centerville 6-8 School 693 Stockett Rd Sand Coulee,0.82128143
+A754,Hill Top Colony School 693 Stockett Rd Box 100 Sand Coulee,B324,Hilltop Colony School 909 Spring Creek Road; Sand Coulee,0.8910981
+A755,Grass Land Colony School 693 Stockett Rd Box 100 Sand Coulee,B324,Hilltop Colony School 909 Spring Creek Road; Sand Coulee,0.8503761
+A756,Centerville High School 693 Stockett Rd Box 100 Sand Coulee,B106,Centerville High School 693 Stockett Rd Sand Coulee,0.9685316
+A757,Sunburst Elementary Box 710 Sunburst,B624,Sunburst Elementary School 220 1st Street South Sunburst,0.29300013
+A758,Sunburst High School Box 710 Sunburst,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.5704409
+A759,Sunburst  7 - 8 Box 710 Sunburst,B496,Plevna 7-8 327 N Main Plevna,0.41924113
+A760,Sunset School 5024 Sunset Hill Road Greenough,B266,Golden Valley Colony School 240 Highway 300 Ryegate,0.76160425
+A761,Superior Elementary PO Box 400 Superior,B629,Superior Elementary School 103 5th Avenue East Superior,0.75253063
+A762,Superior High School PO Box 400 Superior,B629,Superior Elementary School 103 5th Avenue East Superior,0.8670659
+A763,Superior 7-8 PO Box 400 Superior,B488,Plains 7-8 Po Box 549 Plains,0.69959635
+A764,Swan River School 1205 Swan Highway Bigfork,B572,Salmon Prairie School 23187 Mt Highway 83 Swan Lake,0.83185244
+A765,Swan River 6-8 1205 Swan Highway Bigfork,B572,Salmon Prairie School 23187 Mt Highway 83 Swan Lake,0.6626487
+A766,Swan Valley School 6423 Highway 83 Condon,B572,Salmon Prairie School 23187 Mt Highway 83 Swan Lake,0.8248379
+A767,Swan Valley 7-8 6423 Highway 83 Condon,B320,Hillcrest 7-8 304 Division Street Harlowton,0.7158505
+A768,Sweet Grass Co High Schl PO Box 886 Big Timber,B631,Sweet Grass Co High School Po Box 886 Big Timber,0.92316556
+A769,Target Range School 4095 South Avenue West Missoula,B633,Target Range Elementary School 4095 South Ave W Missoula,0.9663391
+A770,Target Range 7-8 4095 South Avenue West Missoula,B632,Target Range 7-8 4095 South Ave W Missoula,0.983691
+A771,Terry School Box 187 Terry,B634,Terry High School 215 E Park Terry,0.71802115
+A772,Terry High School Box 187 Terry,B634,Terry High School 215 E Park Terry,0.79749167
+A773,Terry Middle School Box 187 Terry,B634,Terry High School 215 E Park Terry,0.76332283
+A774,Thompson Falls Elem Schl 206 Haley Ave Thompson Falls,B635,Thompson Falls Elem School Columbia & Haley Streets Thompson Falls,0.782109
+A775,Thompson Falls 7-8 206 Haley Ave Thompson Falls,B635,Thompson Falls Elem School Columbia & Haley Streets Thompson Falls,0.79694444
+A776,Thompson Falls High Schl 206 Haley Ave Thompson Falls,B635,Thompson Falls Elem School Columbia & Haley Streets Thompson Falls,0.8646119
+A777,Three Forks Elem School 212 East Neal Three Forks,B639,Three Forks Elementary School 212 E Neal St Three Forks,0.9419365
+A778,Three Forks 7-8 212 East Neal Three Forks,B639,Three Forks Elementary School 212 E Neal St Three Forks,0.7550127
+A779,Three Forks High School 212 East Neal Three Forks,B640,Three Forks High School 210 E Neal St Three Forks,0.9713273
+A780,Riverview School 735 Road 664 Miles City,B390,Lincoln Elementary School 210 S Lake Ave Miles City,0.7784772
+A781,Trego School PO Box 10 Trego,B24,Babb Elementary School Po Box 70 Babb,0.656127
+A782,Trinity School PO Box 523 Canyon Creek,B16,"Arrowhead School Po Box 37, 1489 East River Rd Pray",0.73503006
+A783,Trout Creek 7-8 4 School Lane Trout Creek,B643,Trout Creek School 4 School Lane Trout Creek,0.919997
+A784,Trout Creek School 4 School Lane Trout Creek,B643,Trout Creek School 4 School Lane Trout Creek,0.99999994
+A785,W F Morrison School Box 867 Troy,B667,W F Morrison Elementary School 501 East Kalispell Troy,0.8333461
+A786,Troy Junior High Box 867 Troy,B645,Troy High School 116 E. Missoula Ave Troy,0.7673105
+A787,Troy High School Box 867 Troy,B645,Troy High School 116 E. Missoula Ave Troy,0.8042871
+A788,Turner School Box 40 Turner,B646,Turner 7-8 School Po Box 40 Turner,0.80166614
+A789,Turner 7-8 Box 40 Turner,B646,Turner 7-8 School Po Box 40 Turner,0.5497557
+A790,Turner High School Box 40 Turner,B648,Turner High School Po Box 40 Turner,0.79903823
+A791,Twin Bridges School Box 419 Twin Bridges,B650,Twin Bridges High School 216 W 6th Twin Bridges,0.75828344
+A792,Twin Bridges High School Box 419 Twin Bridges,B650,Twin Bridges High School 216 W 6th Twin Bridges,0.79484
+A793,Twin Bridges Middle School Box 419 Twin Bridges,B650,Twin Bridges High School 216 W 6th Twin Bridges,0.7838639
+A794,Ulm School PO Box 189 Ulm,B653,Ulm Elementary School A.K.A. Ulm School 6 Ulm-Vaughn Rd Ulm,0.766639
+A795,Fairhaven Colony PO Box 189 Ulm,B209,Fairhaven Colony School 124 Fair Haven Road Ulm,0.7059812
+A796,Ulm Junior High PO Box 189 Ulm,B653,Ulm Elementary School A.K.A. Ulm School 6 Ulm-Vaughn Rd Ulm,0.78272176
+A797,Valier School PO Box 528 Valier,B657,Valier 7-8 School Po Box 528 Valier,0.9499097
+A798,Valier 7-8 PO Box 528 Valier,B657,Valier 7-8 School Po Box 528 Valier,0.83175135
+A799,Kingsbury Colony Attn Ctr PO Box 528 Valier,B362,Kingsbury Colony Attn Center Po Box 528 Valier,0.9374162
+A800,Valier High School PO Box 528 Valier,B657,Valier 7-8 School Po Box 528 Valier,0.9306638
+A801,Valley View School 42448 Valley View Road Polson,B661,Valley View Elementary School 42448 Valley View Rd Polson,0.9802067
+A802,Victor School 425 4th Avenue Victor,B665,Victor Elementary School 425 4th Ave Victor,0.9447945
+A803,Victor High School 425 4th Avenue Victor,B666,Victor High School 425 4th Ave Victor,0.9959773
+A804,Victor Middle School 425 4th Avenue Victor,B665,Victor Elementary School 425 4th Ave Victor,0.970395
+A805,Vida School PO Box 180 Circle,B514,Power High School Po Box 155 Power,0.6813779
+A806,West Valley School 2290 Farm To Market Road Kalispell,B679,West Valley School 2290 Farm To Market Rd Kalispell,0.9956994
+A807,West Valley Middle School 2290 Farm To Market Road Kalispell,B678,West Valley Middle School 2290 Farm To Market Rd Kalispell,0.99685276
+A808,West Yellowstone School Box 460 West Yellowstone,B680,West Yellowstone 7-8 School Po Box 460 W Yellowstone,0.8310815
+A809,West Yellowstone HS Box 460 West Yellowstone,B681,West Yellowstone High School Po Box 460 W Yellowstone,0.822405
+A810,West Yellowstone 6-8 Box 460 West Yellowstone,B682,West Yellowstone School 500 Delacy W Yellowstone,0.64873374
+A811,Westby School PO Box 109 Westby,B685,Westby High School Po Box 108 Westby,0.9624642
+A812,Westby High School PO Box 109 Westby,B685,Westby High School Po Box 108 Westby,0.9955189
+A813,Westby 7-8 PO Box 109 Westby,B683,Westby 7-8 School Po Box 108 Westby,0.7886677
+A814,L A Muldown School 600 East Second Street Whitefish,B458,Muldown Elementary School 1550 East 7th Street Whitefish,0.90762544
+A815,Whitefish Middle 5-8 600 East Second Street Whitefish,B690,Whitefish Central 7-8 School 600 2nd St E Whitefish,0.80151534
+A816,Whitefish High School 600 East Second Street Whitefish,B691,Whitefish High School 1143 E 4th St Whitefish,0.97362226
+A817,Whitehall 6-8 Box 1109 Whitehall,B472,"Opheim 7-8 100 Rock Street, Po Box 108 Opheim",0.67093915
+A818,Whitehall Elementary Box 1109 Whitehall,B693,Whitehall Elementary School 309 North Division Whitehall,0.8376215
+A819,Whitehall High School Box 1109 Whitehall,B694,Whitehall Senior High School 1 W Yellowstone Whitehall,0.85679746
+A820,Whitewater School PO Box 46 Whitewater,B695,Whitewater 6-8 School Po Box 46 Whitewater,0.9411892
+A821,Whitewater High School PO Box 46 Whitewater,B697,"Whitewater High School Po Box 46, 1 Main Street Whitewater",0.95404506
+A822,Whitewater 6-8 PO Box 46 Whitewater,B695,Whitewater 6-8 School Po Box 46 Whitewater,0.8546529
+A823,Wibaux High School 121 F Street N Wibaux,B702,Wibaux High School 105 N F Wibaux,0.90128124
+A824,Wibaux Elementary School 121 F Street N Wibaux,B701,Wibaux Elementary School 415 West Nolan Wibaux,0.9388175
+A825,Wibaux 7-8 121 F Street N Wibaux,B700,Wibaux 7-8 School Po Box 220 Wibaux,0.72143257
+A826,Willow Creek School PO Box 189 Willow Creek,B704,Willow Creek 7-8 School 407 Main St Willow Creek,0.85624456
+A827,Willow Creek 7-8 PO Box 189 Willow Creek,B488,Plains 7-8 Po Box 549 Plains,0.74008805
+A828,Willow Creek High School PO Box 189 Willow Creek,B706,Willow Creek High School 407 Main St Willow Creek,0.8767047
+A829,Winifred School Box 109 Winifred,B707,Winifred 6-8 School 507 Main Street Winifred,0.7247021
+A830,Winifred High School Box 109 Winifred,B708,Winifred High School 507 Main Street Winifred,0.713711
+A831,Winifred 6-8 Box 109 Winifred,B707,Winifred 6-8 School 507 Main Street Winifred,0.579597
+A832,Winnett School Box 167 Winnett,B710,Winnett 7-8 School Po Box 167 Winnett,0.8513516
+A833,Winnett High School Box 167 Winnett,B710,Winnett 7-8 School Po Box 167 Winnett,0.789041
+A834,Winnett 7-8 Box 167 Winnett,B710,Winnett 7-8 School Po Box 167 Winnett,0.6643343
+A835,Wisdom School PO Box 176 Wisdom,B62,Bonner School Po Box 1004 Bonner,0.6926888
+A836,Wolf Creek School Box 200 Wolf Creek,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,0.67994255
+A837,Northside School 213 6th Avenue South Wolf Point,B464,North Side Elementary School 710 4th Ave N Wolf Point,0.9320409
+A838,Southside School 213 6th Avenue South Wolf Point,B606,South Side Elementary School 415 4th Ave S Wolf Point,0.9351206
+A839,Wolf Point 7-8 213 6th Avenue South Wolf Point,B320,Hillcrest 7-8 304 Division Street Harlowton,0.70362836
+A840,Wolf Point High School 213 6th Avenue South Wolf Point,B714,Wolf Point High School 213 6th Ave S Wolf Point,0.99307233
+A841,Woodman School 18470 Highway 12 West Lolo,B717,Woodman Elementary School 18470 Highway 12 W Lolo,0.9696053
+A842,Woodman Middle School 18470 Highway 12 West Lolo,B717,Woodman Elementary School 18470 Highway 12 W Lolo,0.97197723
+A843,White Sulphur Springs El PO Box C White Sulphur Springs,B687,White Sulphur Springs Elem Sch 209 Central Ave S Wht Sphr Spgs,0.74788153
+A844,White Sulphur Springs HS PO Box C White Sulphur Springs,B687,White Sulphur Springs Elem Sch 209 Central Ave S Wht Sphr Spgs,0.7418637
+A845,White Sulphur Springs 7-8 PO Box C White Sulphur Springs,B687,White Sulphur Springs Elem Sch 209 Central Ave S Wht Sphr Spgs,0.75381327
+A846,Wyola 7-8 PO Box 66 Wyola,B718,Wyola 7-8 School Po Box 66 Wyola,0.8122684
+A847,Wyola Elementary PO Box 66 Wyola,B718,Wyola 7-8 School Po Box 66 Wyola,0.9251375
+A848,Yaak School 29893 Yaak River Road Troy,B720,Yaak Elementary School 29893 Yaak River Rd Troy,0.95805854
+A849,Yellowstone Academy Elem 1750 Ray of Hope Lane Billings,B566,Saint Francis Intermediate School 1734 Yellowstone Avenue Billings,0.78348285
+A850,Yellowstone Academy 7-8 1750 Ray of Hope Lane Billings,B566,Saint Francis Intermediate School 1734 Yellowstone Avenue Billings,0.8130572
+A851,Zurich School PO Box 847 Zurich,B723,"Zurich Elementary School A.K.A. Zurich School P.O. Box 847, 265 Park Road Zurich",0.9125283
+A852,Rocky Boy High School RR 1 Box 620 Box Elder,B540,Rocky Boy High School Rr 1 Box 620 Box Elder,1.0000001
+A853,SQUAW GAP SCHOOL 302 Skaar Rd Sidney,B108,Central Elementary School 200 3rd Ave Se Sidney,0.81612307
+A854,EAST FAIRVIEW ELEMENTARY SCHOOL 301 2nd St S Fairview,B211,Fairview Elementary School 713 Southwestern Ave Fairview,0.95696235
+A855,YELLOWSTONE VIRTUAL ACADEMY 301 2nd St S Fairview,B680,West Yellowstone 7-8 School Po Box 460 W Yellowstone,0.7595763
+A856,Northern Cheyenne Tribal School PO Box 150 Busby,B240,Frontier 7-8 School Po Box 3043 Wolf Point,0.71807575
+A857,Two Eagle River School PO Box 160 Pablo,B652,Two Eagle River Schools Po Box 160 Pablo,0.9679838
