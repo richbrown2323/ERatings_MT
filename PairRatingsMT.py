@@ -28,10 +28,6 @@ remaining = df[~df["A_id"].isin(judged_ids)].reset_index(drop=True)
 
 st.write(f"Remaining pairs to review: {len(remaining)}")
 
-if len(remaining) == 0:
-    st.success("All pairs have been reviewed.")
-    st.stop()
-
 row = remaining.iloc[0]
 
 st.subheader(f"Reviewing {row['A_id']} vs {row['Best_B_id']}")
