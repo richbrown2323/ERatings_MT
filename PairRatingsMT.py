@@ -68,6 +68,8 @@ if st.button("Submit judgment"):
     st.success("Judgment saved. Refreshing to next pair...")
     st.rerun()
 
+st.write(f"Remaining pairs to review: {len(remaining)}")
+
 if os.path.exists(OUTPUT_FILE):
     ratings_df = pd.read_csv(OUTPUT_FILE)
 
@@ -81,4 +83,6 @@ if os.path.exists(OUTPUT_FILE):
 if len(remaining) == 0:
     st.success("All pairs have been reviewed.")
     st.stop()
+
+row = remaining.iloc[0]
     
