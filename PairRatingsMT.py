@@ -14,7 +14,7 @@ OUTPUT_FILE = APP_DIR / "ErateNCESmpnet_rater_judgments_MT.csv"
 # -----------------------------
 # Page setup
 # -----------------------------
-st.title("Statement Match Comparison for Montana Schools")
+st.title("Statement Match for Montana Schools")
 
 # -----------------------------
 # Load input file
